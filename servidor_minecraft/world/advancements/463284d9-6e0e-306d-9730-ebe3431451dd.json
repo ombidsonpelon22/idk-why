@@ -2557,5 +2557,17 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/bluebright_planks": {
+    "criteria": {
+      "has_item": "2025-05-18 19:59:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_bluebright_log": "2025-05-18 19:59:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
