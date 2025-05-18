@@ -283,3 +283,41 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [18May2025 18:29:11.473] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
 [18May2025 18:29:11.596] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
 [18May2025 18:29:58.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
+[18May2025 18:32:08.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[18May2025 18:32:08.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[18May2025 18:32:08.284] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[18May2025 18:32:09.527] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[18May2025 18:32:09.559] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[18May2025 18:32:09.601] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[18May2025 18:32:09.659] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[18May2025 18:32:09.713] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[18May2025 18:32:09.753] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[18May2025 18:32:09.806] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[18May2025 18:32:09.852] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[18May2025 18:32:09.903] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[18May2025 18:32:09.953] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[18May2025 18:32:10.002] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[18May2025 18:32:10.072] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[18May2025 18:32:10.250] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[18May2025 18:32:10.256] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[18May2025 18:32:10.256] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[18May2025 18:32:10.268] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[18May2025 18:32:13.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:50255] logged in with entity id 3032 at (4275.2300275248745, 91.0, 1858.7070022976604)
+[18May2025 18:32:13.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
+[18May2025 18:32:13.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
+[18May2025 18:32:13.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
+[18May2025 18:32:13.411] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
+[18May2025 18:32:13.414] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
+[18May2025 18:32:13.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
+[18May2025 18:32:13.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
+[18May2025 18:32:13.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[18May2025 18:32:13.481] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[18May2025 18:32:13.482] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[18May2025 18:32:13.575] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[18May2025 18:32:45.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
+[18May2025 18:32:59.101] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #blue_skies:on_blinding_maps (blue_skies:everbright_blinding_dungeon) took 342 ms
+[18May2025 18:33:04.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 86.000000, -639.500000]
+[18May2025 18:33:50.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
+[18May2025 18:35:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 101.000000, 1241.500000]
+[18May2025 18:37:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Diamonds!]
+[18May2025 18:38:25.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Stone Age]

@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-18 18:35:45 +0000",
       "minecraft:snowy_taiga": "2025-05-17 04:48:32 +0000"
     },
     "done": false
@@ -361,6 +362,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-18 18:32:46 +0000",
       "mutton": "2025-05-17 04:56:32 +0000",
       "bread": "2025-05-17 04:57:41 +0000"
     },
@@ -1008,6 +1010,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-18 18:29:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_planks": {
+    "criteria": {
+      "has_item": "2025-05-18 18:29:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-05-18 18:24:01 +0000"
@@ -1031,6 +1045,12 @@
       "minecraft:witch": "2025-05-18 18:23:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-18 18:29:53 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
@@ -1065,6 +1085,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-05-18 18:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-18 18:29:53 +0000"
     },
     "done": true
   },
