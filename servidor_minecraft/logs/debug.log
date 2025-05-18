@@ -4628,3 +4628,30 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [18May2025 18:36:35.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18May2025 18:37:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Diamonds!]
 [18May2025 18:38:25.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Stone Age]
+[18May2025 18:41:35.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 18:41:35.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 18:45:46.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Zombie
+[18May2025 18:45:46.836] [Server thread/DEBUG] [tombstone/]: A new grave of the player DacSeed was created at position [x:-1006, y:-41, z:1265, dim:minecraft:overworld]
+[18May2025 18:45:46.847] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[18May2025 18:45:53.388] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18May2025 18:45:53.389] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[18May2025 18:45:53.397] [Server thread/DEBUG] [twilightforest/]: Player DacSeed (e482fb9d-1662-3de3-a0f9-70a239104a8d) respawned and received items held in storage
+[18May2025 18:46:16.303] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[18May2025 18:46:16.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Gave 1 [Ender Pearl] to DacSeed]
+[18May2025 18:46:28.261] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[18May2025 18:46:28.524] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[18May2025 18:46:28.566] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[18May2025 18:46:28.594] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[18May2025 18:46:28.618] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[18May2025 18:46:28.633] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[18May2025 18:46:28.650] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[18May2025 18:46:30.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[18May2025 18:46:37.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18May2025 18:46:37.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sdads<--[HERE]
+[18May2025 18:46:37.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 18:46:37.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 18:48:22.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Acquire Hardware]
+[18May2025 18:49:12.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[18May2025 18:49:12.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['DacSeed'/7761, l='ServerLevel[world]', x=-1017.85, y=-40.00, z=1267.42] died: DacSeed was slain by DacSeed
+[18May2025 18:51:37.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 18:51:37.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

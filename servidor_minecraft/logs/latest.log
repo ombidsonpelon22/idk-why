@@ -321,3 +321,14 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [18May2025 18:35:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 101.000000, 1241.500000]
 [18May2025 18:37:47.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Diamonds!]
 [18May2025 18:38:25.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Stone Age]
+[18May2025 18:45:46.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Zombie
+[18May2025 18:45:46.847] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[18May2025 18:45:53.388] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18May2025 18:45:53.389] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[18May2025 18:46:16.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Gave 1 [Ender Pearl] to DacSeed]
+[18May2025 18:46:30.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[18May2025 18:46:37.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18May2025 18:46:37.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sdads<--[HERE]
+[18May2025 18:48:22.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Acquire Hardware]
+[18May2025 18:49:12.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[18May2025 18:49:12.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['DacSeed'/7761, l='ServerLevel[world]', x=-1017.85, y=-40.00, z=1267.42] died: DacSeed was slain by DacSeed
