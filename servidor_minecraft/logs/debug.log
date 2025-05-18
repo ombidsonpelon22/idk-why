@@ -5021,3 +5021,58 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [18May2025 19:01:37.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18May2025 19:01:37.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18May2025 19:01:44.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ya quisiera we
+[18May2025 19:02:11.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> yochi?
+[18May2025 19:02:13.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> va
+[18May2025 19:02:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[18May2025 19:02:26.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> full diamante
+[18May2025 19:02:29.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> invisible
+[18May2025 19:02:32.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> paqveas
+[18May2025 19:02:37.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> armadura de mierda
+[18May2025 19:02:47.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> que nada we
+[18May2025 19:02:58.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> 2
+[18May2025 19:03:12.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> para eso lo use
+[18May2025 19:03:16.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> osea no tengo
+[18May2025 19:03:20.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> U_U
+[18May2025 19:03:22.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pasado
+[18May2025 19:03:26.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> tenia
+[18May2025 19:03:30.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ya no tengo feria
+[18May2025 19:03:37.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> chaqueteandome
+[18May2025 19:03:41.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> por que no tengo nada
+[18May2025 19:03:44.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> JKAJAJAJAJJAJASJKAJSK
+[18May2025 19:04:20.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1027.500000, 101.000000, 1241.500000]
+[18May2025 19:04:27.401] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[18May2025 19:04:27.401] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[18May2025 19:04:37.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> XDDDDDD
+[18May2025 19:05:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AAJJAKJKAKJAJKS
+[18May2025 19:05:40.842] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{krinpa})
+[18May2025 19:06:09.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> somos pobres
+[18May2025 19:06:11.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> w
+[18May2025 19:06:25.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Polargeist
+[18May2025 19:06:25.461] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-1364, y:16, z:-703, dim:blue_skies:everbright]
+[18May2025 19:06:25.465] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[18May2025 19:06:32.240] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18May2025 19:06:32.240] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[18May2025 19:06:32.247] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[18May2025 19:06:36.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[18May2025 19:06:36.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[18May2025 19:06:36.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[18May2025 19:06:36.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[18May2025 19:06:37.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 19:06:37.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 19:06:43.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
+[18May2025 19:06:45.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> :,V
+[18May2025 19:06:58.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> yo we
+[18May2025 19:07:37.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> nose
+[18May2025 19:08:01.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> en el cielo?
+[18May2025 19:08:21.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> referencia minecraft la pelicula xxx
+[18May2025 19:08:55.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> la pelicula te rompio
+[18May2025 19:08:59.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ya quedaste loco
+[18May2025 19:09:09.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ese
+[18May2025 19:09:16.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> waterdrop
+[18May2025 19:09:32.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> yo no vi que follaban
+[18May2025 19:09:34.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> que pedo
+[18May2025 19:09:54.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pana
+[18May2025 19:10:41.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> era yo
+[18May2025 19:11:37.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 19:11:37.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 19:11:56.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> chi
