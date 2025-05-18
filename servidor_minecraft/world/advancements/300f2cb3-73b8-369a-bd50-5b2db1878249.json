@@ -3753,5 +3753,77 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-05-18 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/mossy_turquoise_stonebrick_wall_stonecutting_mossy_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-18 20:04:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/mossy_turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-05-18 20:04:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-05-18 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/mossy_turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-05-18 20:04:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_slab_stonecutting_cracked_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-18 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/mossy_turquoise_stonebrick_stairs_stonecutting_mossy_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-18 20:04:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/mossy_turquoise_stonebrick_slab_stonecutting_mossy_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-18 20:04:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-05-18 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/mossy_turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-05-18 20:04:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_stairs_stonecutting_cracked_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-18 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_wall_stonecutting_cracked_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-18 20:05:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
