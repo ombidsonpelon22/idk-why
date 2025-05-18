@@ -6293,3 +6293,25 @@ Reason: Banned by an operator.
 [18May2025 20:12:39.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> mira we
 [18May2025 20:12:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [18May2025 20:12:53.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> se mueven
+[18May2025 20:13:25.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> gimo
+[18May2025 20:15:34.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> me vine
+[18May2025 20:16:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> el agua va pa todo lado
+[18May2025 20:16:20.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> menos para donde deberia ir
+[18May2025 20:16:26.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ahi
+[18May2025 20:16:37.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 20:16:37.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 20:16:45.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -882.000000, 901.000000, -2883.880000]
+[18May2025 20:17:12.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> sabes donde esta el portal
+[18May2025 20:18:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pero dime
+[18May2025 20:18:27.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ir al portal
+[18May2025 20:18:35.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> para traer carbon
+[18May2025 20:19:20.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> repite
+[18May2025 20:19:23.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> -1028 101 1241
+[18May2025 20:19:29.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -1027.500000, 101.000000, 1241.500000]
+[18May2025 20:19:35.650] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[18May2025 20:19:35.650] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[18May2025 20:21:32.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> tengo 8
+[18May2025 20:21:37.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 20:21:37.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 20:21:44.424] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[18May2025 20:21:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
