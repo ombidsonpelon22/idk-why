@@ -3633,6 +3633,36 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/charoite_helmet": {
+    "criteria": {
+      "has_item": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_shovel": {
+    "criteria": {
+      "has_resource": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_hoe": {
+    "criteria": {
+      "has_resource": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/enchanting_table_compat": {
+    "criteria": {
+      "has_item": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_block": {
+    "criteria": {
+      "has_item": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2025-05-18 19:04:52 +0000"
@@ -3645,9 +3675,51 @@
     },
     "done": true
   },
+  "blue_skies:recipes/combat/charoite_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/banished_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-18 19:21:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_boots": {
+    "criteria": {
+      "has_item": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_leggings": {
+    "criteria": {
+      "has_item": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/pyrope_gem_from_block": {
     "criteria": {
       "has_item": "2025-05-18 18:41:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_sword": {
+    "criteria": {
+      "has_resource": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/jukebox_compat": {
+    "criteria": {
+      "has_item": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_axe": {
+    "criteria": {
+      "has_resource": "2025-05-18 19:23:23 +0000"
     },
     "done": true
   },
@@ -3660,6 +3732,24 @@
   "blue_skies:recipes/misc/purple_dye_from_briskbloom": {
     "criteria": {
       "has_item": "2025-05-18 18:50:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_pickaxe": {
+    "criteria": {
+      "has_resource": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_charoite": {
+    "criteria": {
+      "obtain_material": "2025-05-18 19:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 19:30:03 +0000"
     },
     "done": true
   },

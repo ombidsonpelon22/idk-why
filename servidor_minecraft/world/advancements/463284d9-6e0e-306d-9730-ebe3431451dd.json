@@ -2551,5 +2551,11 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/purple_dye_from_briskbloom": {
+    "criteria": {
+      "has_item": "2025-05-18 19:27:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
