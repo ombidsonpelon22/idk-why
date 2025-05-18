@@ -6315,3 +6315,43 @@ Reason: Banned by an operator.
 [18May2025 20:21:37.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18May2025 20:21:44.424] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
 [18May2025 20:21:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[18May2025 20:24:27.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> 18
+[18May2025 20:24:43.640] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{krinpa})
+[18May2025 20:26:27.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Strong or Careful]
+[18May2025 20:26:27.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Armored Frost Spirit
+[18May2025 20:26:27.446] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-877, y:47, z:-2886, dim:blue_skies:everbright]
+[18May2025 20:26:27.447] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[18May2025 20:26:34.232] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[18May2025 20:26:34.483] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18May2025 20:26:34.483] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[18May2025 20:26:34.488] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[18May2025 20:26:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> duro
+[18May2025 20:26:37.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 20:26:37.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 20:26:41.444] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[18May2025 20:26:41.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[18May2025 20:27:33.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> oye
+[18May2025 20:27:36.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> donde esta la casa
+[18May2025 20:27:38.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> de aqui
+[18May2025 20:27:42.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> donde estaban las cosas
+[18May2025 20:28:14.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 0.500000, 71.000000, 0.500000]
+[18May2025 20:28:51.362] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:everbright_blinding_dungeon took 0 ms
+[18May2025 20:29:00.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -559.500000, 70.000000, 944.500000]
+[18May2025 20:29:18.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 0.500000, 71.000000, -149.500000]
+[18May2025 20:29:36.519] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:everbright_blinding_dungeon took 0 ms
+[18May2025 20:29:44.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 304.500000, 70.000000, -415.500000]
+[18May2025 20:30:21.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to 304.500000, 150.000000, -415.500000]
+[18May2025 20:30:48.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> tampoco es aqui
+[18May2025 20:31:04.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ño
+[18May2025 20:31:08.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> no esta descubierta
+[18May2025 20:31:15.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pvp?
+[18May2025 20:31:22.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> -880 47 -2876
+[18May2025 20:31:27.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
+[18May2025 20:31:37.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 20:31:37.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 20:31:43.640] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #blue_skies:on_blinding_maps (blue_skies:everbright_blinding_dungeon) took 0 ms
+[18May2025 20:31:46.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 80.000000, -639.500000]
+[18May2025 20:31:50.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[18May2025 20:31:58.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -879.500000, 47.000000, -2875.500000]
+[18May2025 20:32:01.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> tenkiu
+[18May2025 20:33:12.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
