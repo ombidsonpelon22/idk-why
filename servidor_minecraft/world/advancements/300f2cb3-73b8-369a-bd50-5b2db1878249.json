@@ -3651,6 +3651,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-18 19:13:01 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/purple_dye_from_briskbloom": {
     "criteria": {
       "has_item": "2025-05-18 18:50:24 +0000"
