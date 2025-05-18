@@ -691,3 +691,12 @@ Reason: Banned by an operator.
 [18May2025 20:41:18.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> sis
 [18May2025 20:42:23.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [18May2025 20:43:29.311] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{krinpa})
+[18May2025 20:43:55.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ahora si nos vemos en la noche we
+[18May2025 20:43:59.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> gunai
+[18May2025 20:44:00.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
+[18May2025 20:44:00.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
+[18May2025 20:44:00.931] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[18May2025 20:50:28.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -879.500000, 47.000000, -2875.500000]
+[18May2025 20:52:29.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[18May2025 20:52:52.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[18May2025 20:52:54.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
