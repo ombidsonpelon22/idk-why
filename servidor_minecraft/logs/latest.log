@@ -470,3 +470,7 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [18May2025 19:27:20.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> 0
 [18May2025 19:27:22.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> XDDDDDD
 [18May2025 19:29:51.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> deja como
+[18May2025 19:37:20.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[18May2025 19:38:03.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[18May2025 19:42:10.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[18May2025 19:42:30.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
