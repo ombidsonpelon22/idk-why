@@ -474,3 +474,120 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [18May2025 19:38:03.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
 [18May2025 19:42:10.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
 [18May2025 19:42:30.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[18May2025 19:43:09.751] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #blue_skies:on_bunker_maps (blue_skies:frozen_bunker) took 165 ms
+[18May2025 19:43:14.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -879.500000, 77.000000, -2879.500000]
+[18May2025 19:43:51.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> volvi
+[18May2025 19:43:54.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> ola
+[18May2025 19:43:55.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> queeeeeeeeeeeeeeeeeeeeeeeee
+[18May2025 19:43:58.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> haker?
+[18May2025 19:44:15.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[18May2025 19:44:15.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[18May2025 19:44:15.213] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[18May2025 19:44:15.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Kicked Ombid: Kicked by an operator]
+[18May2025 19:44:15.238] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 19:44:24.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned krinpa: Banned by an operator.
+[18May2025 19:44:24.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: You are banned from this server
+[18May2025 19:44:24.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
+[18May2025 19:44:24.530] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[18May2025 19:44:28.195] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[18May2025 19:44:28.246] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[18May2025 19:44:28.293] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[18May2025 19:44:28.345] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[18May2025 19:44:28.393] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[18May2025 19:44:28.444] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[18May2025 19:44:28.494] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[18May2025 19:44:28.562] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[18May2025 19:44:28.597] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[18May2025 19:44:28.646] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[18May2025 19:44:28.695] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[18May2025 19:44:28.746] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[18May2025 19:44:28.783] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[18May2025 19:44:28.833] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[18May2025 19:44:28.883] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[18May2025 19:44:28.933] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[18May2025 19:44:28.945] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[18May2025 19:44:28.948] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[18May2025 19:44:28.948] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[18May2025 19:44:28.951] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[18May2025 19:44:28.981] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[18May2025 19:44:29.039] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[18May2025 19:44:29.081] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[18May2025 19:44:29.143] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[18May2025 19:44:29.182] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[18May2025 19:44:29.232] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[18May2025 19:44:29.289] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[18May2025 19:44:29.329] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[18May2025 19:44:29.528] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[18May2025 19:44:29.531] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[18May2025 19:44:29.546] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[18May2025 19:44:29.568] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[18May2025 19:44:32.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:50580] logged in with entity id 37090 at (-876.3000000119209, 47.0, -2885.925851423284)
+[18May2025 19:44:32.090] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
+[18May2025 19:44:32.090] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
+[18May2025 19:44:32.091] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
+[18May2025 19:44:32.091] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
+[18May2025 19:44:32.093] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
+[18May2025 19:44:32.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
+[18May2025 19:44:32.095] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
+[18May2025 19:44:32.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[18May2025 19:44:32.122] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[18May2025 19:44:32.124] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[18May2025 19:44:32.201] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[18May2025 19:44:32.838] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@61edea14[id=463284d9-6e0e-306d-9730-ebe3431451dd,name=krinpa,properties={},legacy=false] (/100.104.79.38:62189): You are banned from this server.
+Reason: Banned by an operator.
+[18May2025 19:44:32.838] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61edea14[id=463284d9-6e0e-306d-9730-ebe3431451dd,name=krinpa,properties={},legacy=false] (/100.104.79.38:62189) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[18May2025 19:44:32.879] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 19:44:36.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned krinpa
+[18May2025 19:45:11.775] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[18May2025 19:45:11.817] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[18May2025 19:45:11.860] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[18May2025 19:45:11.890] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[18May2025 19:45:11.956] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[18May2025 19:45:11.991] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[18May2025 19:45:12.034] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[18May2025 19:45:12.090] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[18May2025 19:45:12.135] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[18May2025 19:45:12.192] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[18May2025 19:45:12.239] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[18May2025 19:45:12.286] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[18May2025 19:45:12.614] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[18May2025 19:45:12.615] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[18May2025 19:45:12.616] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[18May2025 19:45:12.617] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[18May2025 19:45:15.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:62197] logged in with entity id 37417 at (-1401.9720360731696, 90.0, -622.6141399606265)
+[18May2025 19:45:15.643] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
+[18May2025 19:45:15.643] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
+[18May2025 19:45:15.643] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
+[18May2025 19:45:15.644] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
+[18May2025 19:45:15.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
+[18May2025 19:45:15.648] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
+[18May2025 19:45:15.648] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
+[18May2025 19:45:15.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
+[18May2025 19:45:15.669] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
+[18May2025 19:45:15.670] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[18May2025 19:45:15.854] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
+[18May2025 19:45:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AAAAAAAAAAAAAAa
+[18May2025 19:45:49.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> vegetta me la ha metido
+[18May2025 19:46:01.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[18May2025 19:46:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> granjas permaban
+[18May2025 19:46:21.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> bno
+[18May2025 19:46:43.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
+[18May2025 19:46:48.920] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #blue_skies:on_blinding_maps (blue_skies:everbright_blinding_dungeon) took 3 ms
+[18May2025 19:46:52.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -559.500000, 88.000000, 944.500000]
+[18May2025 19:47:28.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> porq
+[18May2025 19:47:50.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> como me hago bieja
+[18May2025 19:48:29.890] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #blue_skies:on_blinding_maps (blue_skies:everbright_blinding_dungeon) took 0 ms
+[18May2025 19:48:32.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
+[18May2025 19:48:36.054] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #blue_skies:on_blinding_maps (blue_skies:everbright_blinding_dungeon) took 1 ms
+[18May2025 19:48:42.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
+[18May2025 19:50:55.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> volvi
+[18May2025 19:51:09.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> chi
+[18May2025 19:51:33.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ño
+[18May2025 19:51:51.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> con agua we
+[18May2025 19:51:56.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> el agua los mata
+[18May2025 19:52:00.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> xd
+[18May2025 19:52:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> si
+[18May2025 19:52:03.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> el agua
+[18May2025 19:52:22.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> bueno
+[18May2025 19:52:24.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> agua
