@@ -332,3 +332,40 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [18May2025 18:48:22.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Acquire Hardware]
 [18May2025 18:49:12.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
 [18May2025 18:49:12.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['DacSeed'/7761, l='ServerLevel[world]', x=-1017.85, y=-40.00, z=1267.42] died: DacSeed was slain by DacSeed
+[18May2025 18:54:42.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed lost connection: Disconnected
+[18May2025 18:54:42.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed left the game
+[18May2025 18:54:42.486] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
+[18May2025 19:00:32.829] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[18May2025 19:00:32.831] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[18May2025 19:00:32.870] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[18May2025 19:00:32.908] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[18May2025 19:00:32.961] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[18May2025 19:00:33.010] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[18May2025 19:00:33.234] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[18May2025 19:00:33.234] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[18May2025 19:00:33.234] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[18May2025 19:00:33.235] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[18May2025 19:00:33.261] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[18May2025 19:00:33.309] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[18May2025 19:00:33.807] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[18May2025 19:00:33.809] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[18May2025 19:00:33.859] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[18May2025 19:00:33.867] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[18May2025 19:00:36.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:62114] logged in with entity id 13353 at (5469.264296217204, 12.0, 898.3000000119209)
+[18May2025 19:00:36.852] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
+[18May2025 19:00:36.852] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
+[18May2025 19:00:36.856] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
+[18May2025 19:00:36.856] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
+[18May2025 19:00:36.858] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
+[18May2025 19:00:36.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
+[18May2025 19:00:36.863] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
+[18May2025 19:00:36.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
+[18May2025 19:00:36.893] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
+[18May2025 19:00:36.896] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[18May2025 19:00:37.235] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
+[18May2025 19:01:02.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pendejete
+[18May2025 19:01:05.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pendeje
+[18May2025 19:01:11.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pendeje estepede
+[18May2025 19:01:29.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> estepede pendeje
+[18May2025 19:01:32.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> -10
+[18May2025 19:01:44.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ya quisiera we
