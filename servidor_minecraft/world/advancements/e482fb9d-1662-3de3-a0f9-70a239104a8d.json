@@ -372,6 +372,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-19 04:02:40 +0000",
       "cooked_mutton": "2025-05-18 18:32:46 +0000",
       "pumpkin_pie": "2025-05-18 22:57:11 +0000",
       "mutton": "2025-05-17 04:56:32 +0000",
@@ -1030,6 +1031,7 @@
       "minecraft:hoglin": "2025-05-19 03:25:27 +0000",
       "minecraft:magma_cube": "2025-05-19 03:21:13 +0000",
       "minecraft:piglin_brute": "2025-05-19 03:25:00 +0000",
+      "minecraft:creeper": "2025-05-19 04:15:58 +0000",
       "minecraft:witch": "2025-05-18 18:23:54 +0000",
       "minecraft:husk": "2025-05-18 18:40:56 +0000",
       "minecraft:piglin": "2025-05-19 03:24:03 +0000",
@@ -2693,15 +2695,27 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "dungeons_arise:find_monasteries": {
     "criteria": {
-      "deflected_projectile": "2025-05-19 03:24:09 +0000"
+      "location0": "2025-05-19 03:07:34 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/transformation_chest_boat": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_boat": "2025-05-19 03:36:25 +0000"
+      "traded": "2025-05-19 03:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-19 03:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-19 03:19:32 +0000"
     },
     "done": true
   },
@@ -2713,7 +2727,43 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-19 03:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-19 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:bleeding": {
+    "criteria": {
+      "bleeding_applied": "2025-05-19 03:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-19 03:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-05-19 03:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-05-19 03:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-05-19 03:25:58 +0000"
     },
@@ -2725,15 +2775,45 @@
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-19 03:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-19 03:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-19 03:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-19 03:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-19 03:27:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 03:36:25 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
-      "entered_nether": "2025-05-19 03:19:32 +0000"
+      "has_boat": "2025-05-19 03:36:25 +0000"
     },
     "done": true
   },
@@ -2743,33 +2823,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-19 03:26:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2025-05-19 03:25:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 03:36:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-05-19 03:42:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-19 03:26:11 +0000"
     },
     "done": true
   },
@@ -2791,18 +2847,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-05-19 03:27:37 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
-    "criteria": {
-      "has_item": "2025-05-19 03:42:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 03:36:25 +0000"
@@ -2818,12 +2862,6 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 03:36:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-05-19 03:11:35 +0000"
     },
     "done": true
   },
@@ -2851,18 +2889,6 @@
     },
     "done": true
   },
-  "majruszsdifficulty:bleeding": {
-    "criteria": {
-      "bleeding_applied": "2025-05-19 03:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-05-19 03:27:37 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 03:36:25 +0000"
@@ -2875,27 +2901,21 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-05-19 03:19:32 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 03:36:25 +0000"
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "loot_bastion_hoglin_stable": "2025-05-19 03:25:35 +0000"
+      "has_wood_slab": "2025-05-19 03:42:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
-      "has_porkchop": "2025-05-19 03:27:37 +0000"
+      "has_item": "2025-05-19 03:42:03 +0000"
     },
     "done": true
   },
@@ -2905,21 +2925,39 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "bastion": "2025-05-19 03:23:19 +0000"
+      "has_flint": "2025-05-19 04:06:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "has_netherrack": "2025-05-19 03:22:57 +0000"
+      "coded_trigger": "2025-05-19 04:15:24 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_monasteries": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "location0": "2025-05-19 03:07:34 +0000"
+      "has_bone_meal": "2025-05-19 04:03:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-19 04:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-05-19 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-19 04:03:05 +0000"
     },
     "done": true
   },

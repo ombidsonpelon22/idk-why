@@ -1,574 +1,343 @@
-[19May2025 00:00:56.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> -1385 88 -623
-[19May2025 00:01:11.666] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
-[19May2025 00:01:11.666] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
-[19May2025 00:01:11.667] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
-[19May2025 00:01:11.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:01:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Enchanter]
-[19May2025 00:01:47.436] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/illager_fort (dungeons_arise:illager_fort) took 16 ms
-[19May2025 00:01:51.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -863.500000, 91.032173, 80.500000]
-[19May2025 00:01:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:01:53.131] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-870, y=61, z=67} but found not block entity block Block{minecraft:water}[level=0] at location
-[19May2025 00:01:53.132] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-870, y=61, z=67}
-[19May2025 00:01:53.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-868, y=61, z=66} but found not block entity block Block{minecraft:water}[level=0] at location
-[19May2025 00:01:53.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-868, y=61, z=66}
-[19May2025 00:01:53.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-870, y=61, z=61} but found not block entity block Block{minecraft:water}[level=0] at location
-[19May2025 00:01:53.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-870, y=61, z=61}
-[19May2025 00:01:53.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-868, y=61, z=60} but found not block entity block Block{minecraft:water}[level=0] at location
-[19May2025 00:01:53.629] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-868, y=61, z=60}
-[19May2025 00:02:27.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1026.500000, 70.000000, 1241.500000]
-[19May2025 00:02:41.379] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[19May2025 00:02:41.380] [Worker-Main-21/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[19May2025 00:02:41.442] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/foundry (dungeons_arise:foundry) took 1868 ms
-[19May2025 00:02:53.824] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/keep_kayra (dungeons_arise:keep_kayra) took 2003 ms
-[19May2025 00:02:59.934] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 8 ms
-[19May2025 00:03:03.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -879.500000, 92.488011, 1056.500000]
-[19May2025 00:03:09.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[19May2025 00:04:21.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:06:09.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:08:39.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:08:51.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1295.500000, 82.000000, 1136.500000]
-[19May2025 00:09:29.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:09:55.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1025.500000, 75.000000, -2877.500000]
-[19May2025 00:10:19.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1025.500000, 75.000000, 1241.500000]
-[19May2025 00:11:12.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DacSeed> FDame 5
-[19May2025 00:12:42.355] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by DacSeed
-[19May2025 00:12:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:13:42.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:15:07.310] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by DacSeed
-[19May2025 00:15:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:16:07.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:17:03.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
-[19May2025 00:17:12.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DacSeed> */tp -1385 88 -623
-[19May2025 00:17:18.146] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
-[19May2025 00:17:31.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:18:24.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
-[19May2025 00:19:44.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[19May2025 00:19:54.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[19May2025 00:20:06.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:20:09.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:20:44.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:22:47.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[19May2025 00:22:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[19May2025 00:22:59.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[19May2025 00:23:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 29 entities]
-[19May2025 00:23:35.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[19May2025 00:23:55.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has reached the goal [Strong or Careful]
-[19May2025 00:23:55.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Armored Frost Spirit
-[19May2025 00:23:55.578] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
-[19May2025 00:24:02.750] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[19May2025 00:24:02.750] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[19May2025 00:24:11.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Knowledge raises the soul]
-[19May2025 00:24:29.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
-[19May2025 00:26:56.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:27:18.507] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{DacSeed})
-[19May2025 00:27:43.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
-[19May2025 00:30:48.481] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by DacSeed
-[19May2025 00:33:04.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
-[19May2025 00:33:04.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
-[19May2025 00:33:04.820] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
-[19May2025 00:34:45.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:35:04.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * Server pinche menso
-[19May2025 00:35:12.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DacSeed> JAJA
-[19May2025 00:35:16.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:35:25.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DacSeed> */kill server
-[19May2025 00:38:07.267] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by DacSeed
-[19May2025 00:38:12.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:38:55.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:40:54.118] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[19May2025 00:40:54.137] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[19May2025 00:40:54.189] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[19May2025 00:40:54.264] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[19May2025 00:40:54.298] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[19May2025 00:40:54.350] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[19May2025 00:40:54.390] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[19May2025 00:40:54.437] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[19May2025 00:40:54.487] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[19May2025 00:40:54.541] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[19May2025 00:40:54.586] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[19May2025 00:40:54.640] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[19May2025 00:40:54.890] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[19May2025 00:40:54.895] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[19May2025 00:40:54.898] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[19May2025 00:40:54.913] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[19May2025 00:40:57.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:60516] logged in with entity id 59499 at (-880.8767021286325, 47.0, -2878.651659886114)
-[19May2025 00:40:57.988] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
-[19May2025 00:40:57.988] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
-[19May2025 00:40:57.988] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
-[19May2025 00:40:57.989] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
-[19May2025 00:40:57.991] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
-[19May2025 00:40:57.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
-[19May2025 00:40:57.993] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
-[19May2025 00:40:58.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
-[19May2025 00:40:58.037] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
-[19May2025 00:40:58.038] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
-[19May2025 00:40:58.131] [ForkJoinPool-4-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
-[19May2025 00:42:00.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DacSeed> * /tp -1385 88 -623
-[19May2025 00:42:07.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:43:11.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has reached the goal [Die Classy]
-[19May2025 00:44:59.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:45:38.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DacSeed> * /tp -1385 88 -623
-[19May2025 00:45:41.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:46:06.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
-[19May2025 00:46:43.331] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
-[19May2025 00:49:38.031] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by DacSeed
-[19May2025 00:49:56.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:52:17.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:53:08.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:53:21.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:54:45.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:55:07.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:55:15.456] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by DacSeed
-[19May2025 00:55:41.781] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by DacSeed
-[19May2025 00:55:44.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:56:24.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:57:08.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:58:07.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:58:17.947] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by DacSeed
-[19May2025 00:58:31.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:59:03.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 00:59:32.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 00:59:57.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 01:00:45.179] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by DacSeed
-[19May2025 01:01:07.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 01:01:08.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 01:01:39.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 01:03:18.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 01:03:51.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 01:04:35.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 01:05:26.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 01:06:10.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 01:07:28.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 01:09:10.404] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by DacSeed
-[19May2025 01:09:19.107] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by DacSeed
-[19May2025 01:09:39.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 01:10:12.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
-[19May2025 01:10:36.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Armored Frost Spirit
-[19May2025 01:10:36.776] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
-[19May2025 01:10:43.309] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[19May2025 01:10:43.309] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[19May2025 01:10:50.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
-[19May2025 01:11:23.510] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by DacSeed
-[19May2025 01:12:51.705] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{DacSeed})
-[19May2025 01:15:00.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 01:20:13.120] [Server thread/INFO] [Scaling Health/]: Blight Stardust Ram was killed by DacSeed
-[19May2025 01:21:38.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 01:22:00.731] [Server thread/INFO] [Scaling Health/]: Blight Azulfo was killed by DacSeed
-[19May2025 01:22:57.631] [Server thread/INFO] [Scaling Health/]: Blight Azulfo was killed by DacSeed
-[19May2025 01:23:02.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
-[19May2025 01:25:05.209] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by DacSeed
-[19May2025 01:25:38.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
-[19May2025 01:25:40.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 01:27:22.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
-[19May2025 01:28:22.824] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by DacSeed
-[19May2025 01:35:53.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1384.500000, 88.000000, -622.500000]
-[19May2025 01:36:15.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed lost connection: Disconnected
-[19May2025 01:36:15.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed left the game
-[19May2025 01:36:15.178] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
-[19May2025 02:03:27.623] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[19May2025 02:13:20.646] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[19May2025 02:13:20.666] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[19May2025 02:13:20.666] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[19May2025 02:13:20.672] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[19May2025 02:13:20.673] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[19May2025 02:13:20.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 584 entities]
-[19May2025 02:13:42.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1384.500000, 88.000000, -622.500000]
-[19May2025 02:15:35.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -880.500000, 47.000000, -621.500000]
-[19May2025 02:15:54.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -880.500000, 47.000000, -2877.500000]
-[19May2025 02:17:45.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1384.500000, 88.000000, -622.500000]
-[19May2025 02:18:34.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -880.500000, 47.000000, -2877.500000]
-[19May2025 02:38:10.118] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[19May2025 02:42:35.741] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[19May2025 02:42:35.974] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[19May2025 02:42:35.974] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[19May2025 02:42:35.974] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[19May2025 02:42:35.975] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[19May2025 02:42:35.975] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[19May2025 02:42:35.991] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[19May2025 02:42:36.042] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[19May2025 02:42:36.086] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[19May2025 02:42:36.139] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[19May2025 02:42:36.191] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[19May2025 02:42:36.241] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[19May2025 02:42:36.614] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[19May2025 02:42:36.614] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[19May2025 02:42:36.620] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[19May2025 02:42:36.675] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[19May2025 02:42:39.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:58946] logged in with entity id 89336 at (-879.8939878322633, 47.0, -2880.3538253113734)
-[19May2025 02:42:39.944] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
-[19May2025 02:42:39.944] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
-[19May2025 02:42:39.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
-[19May2025 02:42:39.945] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
-[19May2025 02:42:39.947] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
-[19May2025 02:42:39.949] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
-[19May2025 02:42:39.949] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
-[19May2025 02:42:39.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
-[19May2025 02:42:40.019] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
-[19May2025 02:42:40.020] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[19May2025 02:42:40.259] [ForkJoinPool-4-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
-[19May2025 02:43:18.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> aimiinternet
-[19May2025 02:44:49.180] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by krinpa
-[19May2025 02:45:50.710] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{krinpa})
-[19May2025 02:50:04.175] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by krinpa
-[19May2025 02:50:22.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> ingatu con permiso de quien
-[19May2025 02:50:29.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ola
-[19May2025 02:50:36.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> yo afk disque guardando mobs
-[19May2025 02:50:38.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> irenla
-[19May2025 02:50:43.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> yoq
-[19May2025 02:50:43.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> bien agusto
-[19May2025 02:50:48.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> chingandose todo
-[19May2025 02:50:53.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> mentiras
-[19May2025 02:50:55.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> irenla nomas
-[19May2025 02:51:03.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> cuanto de vida tengo?
-[19May2025 02:51:08.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> avr
-[19May2025 02:51:25.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> 90 lol
-[19May2025 02:51:30.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> tienes mas q dani y yo ya
-[19May2025 02:51:31.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> aya
-[19May2025 02:52:07.756] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[19May2025 02:52:07.766] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[19May2025 02:52:07.767] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[19May2025 02:52:07.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 226 entities]
-[19May2025 02:52:18.676] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
-[19May2025 02:52:34.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> bueno
-[19May2025 02:52:35.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1384.500000, 88.000000, -622.500000]
-[19May2025 02:52:42.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> para imponer autoridad
-[19May2025 02:52:59.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> voy a minar lapiz
-[19May2025 02:53:00.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> no hay na
-[19May2025 02:53:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> okei
-[19May2025 02:54:21.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1023.500000, 88.000000, 900.500000]
-[19May2025 02:54:21.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
-[19May2025 02:54:36.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1023.500000, 88.000000, -899.500000]
-[19May2025 02:55:00.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1023.500000, 88.000000, -1023.500000]
-[19May2025 02:55:18.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[19May2025 02:58:45.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[19May2025 02:59:07.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1027.500000, 101.000000, 1241.500000]
-[19May2025 02:59:11.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[19May2025 02:59:15.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> U_U
-[19May2025 03:00:50.176] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[19May2025 03:00:50.184] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[19May2025 03:00:50.226] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[19May2025 03:00:50.276] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[19May2025 03:00:50.330] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[19May2025 03:00:50.376] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[19May2025 03:00:50.430] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[19May2025 03:00:50.472] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[19May2025 03:00:50.555] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[19May2025 03:00:50.586] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[19May2025 03:00:50.627] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[19May2025 03:00:50.677] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[19May2025 03:00:50.958] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[19May2025 03:00:50.958] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[19May2025 03:00:50.958] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[19May2025 03:00:50.959] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[19May2025 03:00:54.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DacSeed[/100.66.218.125:50250] logged in with entity id 96225 at (-1391.3917439835282, 88.0, -618.2150103224959)
-[19May2025 03:00:54.037] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DacSeed
-[19May2025 03:00:54.038] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DacSeed
-[19May2025 03:00:54.038] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DacSeed
-[19May2025 03:00:54.038] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DacSeed
-[19May2025 03:00:54.040] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DacSeed
-[19May2025 03:00:54.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DacSeed
-[19May2025 03:00:54.043] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DacSeed
-[19May2025 03:00:54.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed joined the game
-[19May2025 03:00:54.067] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player DacSeed just logged in with id e482fb9d-1662-3de3-a0f9-70a239104a8d
-[19May2025 03:00:54.076] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
-[19May2025 03:00:54.084] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
-[19May2025 03:01:05.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
-[19May2025 03:01:05.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
-[19May2025 03:01:05.293] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[19May2025 03:01:05.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Kicked krinpa: Kicked by an operator]
-[19May2025 03:01:05.350] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[19May2025 03:01:08.243] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[19May2025 03:01:08.243] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[19May2025 03:01:08.243] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[19May2025 03:01:08.243] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[19May2025 03:01:08.243] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[19May2025 03:01:08.279] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[19May2025 03:01:08.329] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[19May2025 03:01:08.920] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[19May2025 03:01:08.920] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[19May2025 03:01:08.920] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[19May2025 03:01:08.920] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[19May2025 03:01:08.920] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[19May2025 03:01:08.921] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[19May2025 03:01:08.921] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[19May2025 03:01:08.921] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[19May2025 03:01:08.921] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[19May2025 03:01:12.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:58999] logged in with entity id 96612 at (-969.307688501471, 93.0, -1053.9166322109095)
-[19May2025 03:01:12.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
-[19May2025 03:01:12.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
-[19May2025 03:01:12.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
-[19May2025 03:01:12.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
-[19May2025 03:01:12.184] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
-[19May2025 03:01:12.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
-[19May2025 03:01:12.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
-[19May2025 03:01:12.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
-[19May2025 03:01:12.204] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
-[19May2025 03:01:12.204] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[19May2025 03:01:12.466] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
-[19May2025 03:01:25.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Kicked DacSeed: Kicked by an operator]
-[19May2025 03:01:25.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed lost connection: Kicked by an operator
-[19May2025 03:01:25.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed left the game
-[19May2025 03:01:25.591] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
-[19May2025 03:01:28.413] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[19May2025 03:01:28.432] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[19May2025 03:01:28.477] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[19May2025 03:01:28.548] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[19May2025 03:01:28.571] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[19May2025 03:01:28.622] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[19May2025 03:01:28.672] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[19May2025 03:01:28.722] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[19May2025 03:01:28.773] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[19May2025 03:01:28.822] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[19May2025 03:01:28.873] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[19May2025 03:01:28.922] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[19May2025 03:01:29.135] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[19May2025 03:01:29.135] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[19May2025 03:01:29.193] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[19May2025 03:01:29.198] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[19May2025 03:01:32.286] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DacSeed[/100.66.218.125:50281] logged in with entity id 96907 at (-1390.2912211633168, 90.0, -614.021462567664)
-[19May2025 03:01:32.287] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DacSeed
-[19May2025 03:01:32.287] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DacSeed
-[19May2025 03:01:32.288] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DacSeed
-[19May2025 03:01:32.288] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DacSeed
-[19May2025 03:01:32.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DacSeed
-[19May2025 03:01:32.291] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DacSeed
-[19May2025 03:01:32.291] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DacSeed
-[19May2025 03:01:32.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed joined the game
-[19May2025 03:01:32.316] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player DacSeed just logged in with id e482fb9d-1662-3de3-a0f9-70a239104a8d
-[19May2025 03:01:32.316] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
-[19May2025 03:01:32.317] [ForkJoinPool-4-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
-[19May2025 03:01:36.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Made krinpa no longer a server operator]
-[19May2025 03:01:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> PENE
-[19May2025 03:01:51.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> 😭😭😭😭😭😭
-[19May2025 03:01:53.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Set krinpa's game mode to Adventure Mode]
-[19May2025 03:02:14.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> matate
-[19May2025 03:02:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> 😭😭😭😭
-[19May2025 03:02:42.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> peppe
-[19May2025 03:02:43.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> p
-[19May2025 03:02:55.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
-[19May2025 03:02:55.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
-[19May2025 03:02:55.480] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[19May2025 03:03:02.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
-[19May2025 03:03:57.363] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #blue_skies:on_blinding_maps (blue_skies:everbright_blinding_dungeon) took 4 ms
-[19May2025 03:04:11.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
-[19May2025 03:04:50.226] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #blue_skies:on_blinding_maps (blue_skies:everbright_blinding_dungeon) took 0 ms
-[19May2025 03:04:52.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 80.000000, -639.500000]
-[19May2025 03:05:06.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
-[19May2025 03:05:53.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> -1028 101 1241
-[19May2025 03:06:02.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported DacSeed to -1027.500000, 101.000000, 1241.500000]
-[19May2025 03:06:04.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 101.000000, 1241.500000]
-[19May2025 03:06:07.594] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[19May2025 03:06:07.636] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[19May2025 03:06:07.692] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[19May2025 03:06:07.738] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[19May2025 03:06:07.788] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[19May2025 03:06:07.837] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[19May2025 03:06:07.889] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[19May2025 03:06:07.938] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[19May2025 03:06:08.394] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[19May2025 03:06:08.394] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[19May2025 03:06:08.394] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[19May2025 03:06:08.394] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[19May2025 03:06:08.394] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[19May2025 03:06:08.395] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[19May2025 03:06:08.526] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[19May2025 03:06:08.526] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[19May2025 03:06:11.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:59027] logged in with entity id 99368 at (-845.4722251990704, 75.125, -1194.1326490353997)
-[19May2025 03:06:11.484] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
-[19May2025 03:06:11.485] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
-[19May2025 03:06:11.485] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
-[19May2025 03:06:11.486] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
-[19May2025 03:06:11.487] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
-[19May2025 03:06:11.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
-[19May2025 03:06:11.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
-[19May2025 03:06:11.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
-[19May2025 03:06:11.508] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
-[19May2025 03:06:11.510] [ForkJoinPool-4-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[19May2025 03:06:12.235] [ForkJoinPool-4-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
-[19May2025 03:06:20.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Set krinpa's game mode to Survival Mode]
-[19May2025 03:06:20.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> (no le corre lol)
-[19May2025 03:06:27.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> U_U
-[19May2025 03:06:31.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> andan peleando we
-[19May2025 03:06:32.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
-[19May2025 03:06:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> de donde se origino el cacao
-[19May2025 03:06:44.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> SDAKJASJKDKSA
-[19May2025 03:06:47.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> De ti
-[19May2025 03:07:15.489] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/keep_kayra (dungeons_arise:keep_kayra) took 0 ms
-[19May2025 03:07:24.325] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 0 ms
-[19May2025 03:07:34.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported DacSeed to -879.500000, 76.000000, 1056.500000]
-[19May2025 03:08:30.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AAAAAAA
-[19May2025 03:09:42.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> k
-[19May2025 03:09:51.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DacSeed> -882 47 -2879
-[19May2025 03:10:05.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[19May2025 03:11:04.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> q hace tu pechera aca negra
-[19May2025 03:11:14.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 5.677371057463233,-1.330187592783588,8.389046150806053
-[19May2025 03:11:19.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> se me olvido
-[19May2025 03:11:26.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> no se te quedan los calzones tambn?
-[19May2025 03:11:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> aveces
-[19May2025 03:11:35.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [What a Deal!]
-[19May2025 03:11:36.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> digo, que se te quede la espada o el pico no se
-[19May2025 03:11:38.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> pero la pechera?
-[19May2025 03:13:41.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> esq me cai en un hoyo
-[19May2025 03:13:44.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> :(
-[19May2025 03:13:49.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ewe
-[19May2025 03:13:51.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> tiraparo
-[19May2025 03:14:02.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> hazme tp al mundo normi
-[19May2025 03:14:04.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> enfa
-[19May2025 03:14:10.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 80.000000, -639.500000]
-[19May2025 03:14:44.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to DacSeed]
-[19May2025 03:15:19.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Kicked krinpa: Kicked by an operator]
-[19May2025 03:15:19.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Kicked by an operator
-[19May2025 03:15:19.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
-[19May2025 03:15:19.878] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[19May2025 03:15:22.661] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[19May2025 03:15:22.705] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[19May2025 03:15:22.772] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[19May2025 03:15:22.810] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[19May2025 03:15:22.856] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[19May2025 03:15:23.087] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[19May2025 03:15:23.087] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[19May2025 03:15:23.087] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[19May2025 03:15:23.088] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[19May2025 03:15:23.106] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[19May2025 03:15:23.158] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[19May2025 03:15:23.207] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[19May2025 03:15:23.441] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[19May2025 03:15:23.441] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[19May2025 03:15:23.442] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[19May2025 03:15:23.445] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[19May2025 03:15:26.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:59056] logged in with entity id 105506 at (-879.591636545387, 69.0, 1052.2766185665753)
-[19May2025 03:15:26.533] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
-[19May2025 03:15:26.533] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
-[19May2025 03:15:26.534] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
-[19May2025 03:15:26.534] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
-[19May2025 03:15:26.535] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
-[19May2025 03:15:26.537] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
-[19May2025 03:15:26.537] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
-[19May2025 03:15:26.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
-[19May2025 03:15:26.587] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
-[19May2025 03:15:26.590] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[19May2025 03:15:26.822] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
-[19May2025 03:15:28.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Kicked krinpa: Kicked by an operator]
-[19May2025 03:15:28.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Kicked by an operator
-[19May2025 03:15:28.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
-[19May2025 03:15:28.825] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[19May2025 03:15:33.311] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[19May2025 03:15:33.543] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[19May2025 03:15:33.543] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[19May2025 03:15:33.543] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[19May2025 03:15:33.543] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[19May2025 03:15:33.556] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[19May2025 03:15:33.608] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[19May2025 03:15:33.658] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[19May2025 03:15:33.708] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[19May2025 03:15:33.760] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[19May2025 03:15:33.813] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[19May2025 03:15:33.858] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[19May2025 03:15:34.124] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[19May2025 03:15:34.124] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[19May2025 03:15:34.124] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[19May2025 03:15:34.124] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[19May2025 03:15:37.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:59057] logged in with entity id 105559 at (-879.591636545387, 69.0, 1052.2766185665753)
-[19May2025 03:15:37.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
-[19May2025 03:15:37.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
-[19May2025 03:15:37.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
-[19May2025 03:15:37.183] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
-[19May2025 03:15:37.184] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
-[19May2025 03:15:37.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
-[19May2025 03:15:37.186] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
-[19May2025 03:15:37.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
-[19May2025 03:15:37.226] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
-[19May2025 03:15:37.226] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[19May2025 03:15:37.306] [ForkJoinPool-4-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
-[19May2025 03:15:52.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> honducitydeidad
-[19May2025 03:15:52.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[19May2025 03:16:12.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> cursed of bones
-[19May2025 03:17:32.927] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by Ombid
-[19May2025 03:17:39.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 101.000000, 1241.500000]
-[19May2025 03:18:10.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
-[19May2025 03:18:26.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 80.000000, -639.500000]
-[19May2025 03:18:36.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1392.500000, 90.000000, -623.500000]
-[19May2025 03:18:41.877] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
-[19May2025 03:18:47.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
-[19May2025 03:19:05.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa moved too quickly! 0.5553420644811666,-11.19886200217772,0.0
-[19May2025 03:19:06.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 101.000000, 1241.500000]
-[19May2025 03:19:32.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [We Need to Go Deeper]
-[19May2025 03:19:32.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to krinpa]
-[19May2025 03:19:36.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
-[19May2025 03:20:08.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to krinpa]
-[19May2025 03:20:49.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[19May2025 03:20:54.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported krinpa to DacSeed]
-[19May2025 03:21:56.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported krinpa to DacSeed]
-[19May2025 03:22:44.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 4 entities]
-[19May2025 03:22:57.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-936, y=76, z=1049} BlockPos{x=106, y=77, z=205}
-[19May2025 03:22:58.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-936, y=76, z=1049} BlockPos{x=106, y=78, z=206}
-[19May2025 03:23:01.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-936, y=76, z=1049} BlockPos{x=107, y=79, z=209}
-[19May2025 03:23:19.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Those Were the Days]
-[19May2025 03:23:23.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Is this... blood?]
-[19May2025 03:23:42.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported krinpa to DacSeed]
-[19May2025 03:23:43.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Those Were the Days]
-[19May2025 03:24:09.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Not Today, Thank You]
-[19May2025 03:24:28.524] [Server thread/INFO] [Scaling Health/]: Blight Piglin was killed by DacSeed
-[19May2025 03:25:30.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported krinpa to DacSeed]
-[19May2025 03:25:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [War Pigs]
-[19May2025 03:27:25.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Hoglin
-[19May2025 03:27:25.348] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[19May2025 03:27:35.610] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[19May2025 03:27:35.611] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[19May2025 03:27:36.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 80.000000, -639.500000]
-[19May2025 03:27:56.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Gave 1 [Ender Pearl] to krinpa]
-[19May2025 03:28:15.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
-[19May2025 03:29:41.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Ombid
-[19May2025 03:29:41.333] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
-[19May2025 03:29:48.313] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[19May2025 03:29:48.314] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[19May2025 03:31:02.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Ombid
-[19May2025 03:31:02.187] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
-[19May2025 03:31:09.618] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[19May2025 03:31:09.619] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[19May2025 03:31:10.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['DacSeed'/113001, l='ServerLevel[world]', x=-1392.45, y=88.00, z=-626.64] died: DacSeed was slain by Ombid
-[19May2025 03:31:24.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[19May2025 03:31:28.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported DacSeed to Ombid]
-[19May2025 03:31:43.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [War Pigs]
-[19May2025 03:32:58.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
-[19May2025 03:32:58.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
-[19May2025 03:32:58.724] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[19May2025 03:34:19.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 101.000000, 1241.500000]
-[19May2025 03:34:52.947] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by Ombid
-[19May2025 03:35:40.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 80.000000, -639.500000]
-[19May2025 03:36:14.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[19May2025 03:38:39.091] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
-[19May2025 03:38:59.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 80.000000, -639.500000]
-[19May2025 03:40:03.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[19May2025 03:42:44.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 80.000000, -639.500000]
-[19May2025 03:43:45.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[19May2025 03:46:05.433] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit was killed by Ombid
-[19May2025 03:48:06.336] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Ombid})
-[19May2025 03:52:22.639] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[19May2025 03:52:22.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 43 entities]
-[19May2025 03:54:43.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[19May2025 03:54:47.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
-[19May2025 03:54:49.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[19May2025 03:54:53.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[19May2025 03:54:56.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[19May2025 03:54:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[19May2025 03:55:01.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[19May2025 03:55:19.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[19May2025 03:55:42.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[19May2025 03:56:42.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[19May2025 03:56:43.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[19May2025 03:56:43.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[19May2025 03:56:43.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[19May2025 03:56:43.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19May2025 03:56:43.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[19May2025 03:56:43.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19May2025 03:56:43.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[19May2025 03:56:43.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[19May2025 03:56:43.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19May2025 03:56:43.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19May2025 03:56:43.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[19May2025 03:56:43.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19May2025 03:56:43.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[19May2025 03:56:43.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[19May2025 03:56:43.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19May2025 03:56:43.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19May2025 03:56:43.725] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@5c20fe89
+[19May2025 03:57:50.737] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[19May2025 03:57:50.740] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[19May2025 03:57:51.144] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[19May2025 03:57:51.197] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/idk-why/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[19May2025 03:57:51.433] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/idk-why/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[19May2025 03:57:51.551] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[19May2025 03:57:51.553] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[19May2025 03:57:51.556] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[19May2025 03:57:51.557] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[19May2025 03:57:51.922] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[19May2025 03:57:51.924] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[19May2025 03:57:54.346] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[19May2025 03:57:54.360] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19May2025 03:57:54.436] [main/ERROR] [mixin/]: Mixin config okzoomer.mixins.json does not specify "minVersion" property
+[19May2025 03:57:54.535] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19May2025 03:57:54.694] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
+[19May2025 03:57:54.816] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.1+mc1.20.1: 84 options available, 0 override(s) found
+[19May2025 03:57:54.817] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[19May2025 03:57:54.830] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[19May2025 03:57:54.915] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[19May2025 03:57:54.917] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[19May2025 03:57:54.926] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 104 options available, 0 override(s) found
+[19May2025 03:57:55.212] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[19May2025 03:57:55.350] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[19May2025 03:57:56.927] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[19May2025 03:57:57.213] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[19May2025 03:57:57.389] [main/INFO] [mixin/]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.server.dedicated.DedicatedServer
+[19May2025 03:57:57.596] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: com/sun/jna/Platform
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.4.0.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.4.0.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.4.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 22 more
+[19May2025 03:57:57.665] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.014 s after launch)
+[19May2025 03:57:57.765] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[19May2025 03:57:57.766] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[19May2025 03:57:58.545] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[19May2025 03:57:58.546] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[19May2025 03:57:58.546] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[19May2025 03:57:59.515] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1847 milliseconds
+[19May2025 03:57:59.618] [main/INFO] [mixin/]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.network.FriendlyByteBuf
+[19May2025 03:57:59.622] [main/INFO] [mixin/]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md5f1de2$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
+[19May2025 03:57:59.623] [main/INFO] [mixin/]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md5f1de2$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
+[19May2025 03:58:01.328] [main/INFO] [mixin/]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[19May2025 03:58:02.078] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[19May2025 03:58:02.486] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
+[19May2025 03:58:02.520] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
+[19May2025 03:58:02.525] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[19May2025 03:58:02.633] [modloading-worker-0/INFO] [mixin/]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.server.players.PlayerList
+[19May2025 03:58:03.539] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[19May2025 03:58:03.567] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[19May2025 03:58:03.696] [modloading-worker-0/INFO] [NoChatReports/]: KONNICHIWA ZA WARUDO!
+[19May2025 03:58:03.696] [modloading-worker-0/INFO] [NoChatReports/]: Default JVM text encoding is: UTF-8
+[19May2025 03:58:03.707] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Common.json...
+[19May2025 03:58:03.708] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Common.json...
+[19May2025 03:58:03.744] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
+[19May2025 03:58:03.772] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[19May2025 03:58:04.349] [modloading-worker-0/INFO] [me.wesley1808.servercore.common.ServerCore/]: [ServerCore] Loaded V1.5.2+1.20.1!
+[19May2025 03:58:04.351] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[19May2025 03:58:04.365] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[19May2025 03:58:04.386] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[19May2025 03:58:04.386] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[19May2025 03:58:07.064] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[19May2025 03:58:07.074] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[19May2025 03:58:07.077] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[19May2025 03:58:07.079] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[19May2025 03:58:07.617] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[19May2025 03:58:07.641] [modloading-worker-0/INFO] [com.clickadv.ClickAdvancements/]: clickadv mod initialized
+[19May2025 03:58:07.644] [modloading-worker-0/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
+[19May2025 03:58:07.734] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
+[19May2025 03:58:07.744] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[19May2025 03:58:07.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[19May2025 03:58:07.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: OUTDATED Current: 0.12.3+git.50c5c33 Target: 0.12.4
+[19May2025 03:58:07.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[19May2025 03:58:08.196] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[19May2025 03:58:08.200] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[19May2025 03:58:08.200] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:26) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23193!/:1.20.1-4.3.0]
+	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23193!/:1.20.1-4.3.0]
+	at com.github.exopandora.shouldersurfing.forge.plugin.PluginLoaderForge.loadPlugins(PluginLoaderForge.java:23) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23193!/:1.20.1-4.3.0]
+	at com.github.exopandora.shouldersurfing.forge.ShoulderSurfingForge.loadComplete(ShoulderSurfingForge.java:56) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23193!/:1.20.1-4.3.0]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2350!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:121) ~[javafmllanguage-1.20.1-47.4.0.jar%23205!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:127) ~[fmlcore-1.20.1-47.4.0.jar%23204!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.0.jar%2367!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 17 more
+[19May2025 03:58:08.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[19May2025 03:58:08.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[19May2025 03:58:08.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[19May2025 03:58:08.264] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[19May2025 03:58:08.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[19May2025 03:58:08.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[19May2025 03:58:08.795] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19May2025 03:58:08.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[19May2025 03:58:08.796] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[19May2025 03:58:08.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[19May2025 03:58:08.901] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[19May2025 03:58:08.906] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[19May2025 03:58:08.913] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[19May2025 03:58:08.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[19May2025 03:58:09.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[19May2025 03:58:09.019] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[19May2025 03:58:09.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[19May2025 03:58:09.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[19May2025 03:58:09.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: OUTDATED Current: 0.5.4.3+mc1.20.1-build.121 Target: 0.5.4.4+mc1.20.1-build.131
+[19May2025 03:58:09.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Starting version check at https://api.modrinth.com/updates/rrls/forge_updates.json
+[19May2025 03:58:09.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Found status: UP_TO_DATE Current: 4.0.6.1+mc1.20.1-forge Target: null
+[19May2025 03:58:09.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[19May2025 03:58:09.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[19May2025 03:58:09.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19May2025 03:58:09.192] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/idk-why/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
+[19May2025 03:58:09.193] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/idk-why/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
+[19May2025 03:58:09.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[19May2025 03:58:09.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[19May2025 03:58:09.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[19May2025 03:58:11.038] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
+[19May2025 03:58:11.893] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[19May2025 03:58:11.936] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[19May2025 03:58:11.948] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[19May2025 03:58:11.949] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[19May2025 03:58:11.951] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[19May2025 03:58:11.952] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[19May2025 03:58:11.957] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[19May2025 03:58:11.958] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[19May2025 03:58:11.960] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[19May2025 03:58:12.100] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2567 advancements
+[19May2025 03:58:12.106] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[19May2025 03:58:12.106] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[19May2025 03:58:12.106] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[19May2025 03:58:12.107] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[19May2025 03:58:12.121] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[19May2025 03:58:12.124] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[19May2025 03:58:12.124] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[19May2025 03:58:12.124] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[19May2025 03:58:12.126] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[19May2025 03:58:12.365] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 10 milliseconds
+[19May2025 03:58:12.367] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[19May2025 03:58:12.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[19May2025 03:58:12.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19May2025 03:58:12.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19May2025 03:58:12.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19May2025 03:58:12.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19May2025 03:58:12.507] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19May2025 03:58:12.591] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19May2025 03:58:12.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19May2025 03:58:12.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19May2025 03:58:12.592] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19May2025 03:58:12.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19May2025 03:58:12.719] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping servercore.common.mixins.json:optimizations.ticking.chunk.cache.ServerChunkCacheMixin->@Redirect::servercore$noList(I)Ljava/util/ArrayList; with priority 900, already redirected by lithium.mixins.json:alloc.chunk_ticking.ServerChunkManagerMixin->@Redirect::redirectChunksListClone(I)Ljava/util/ArrayList; with priority 1000
+[19May2025 03:58:13.218] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[19May2025 03:58:13.278] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[19May2025 03:58:13.619] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[19May2025 03:58:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19May2025 03:58:14.949] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 03:58:14.950] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 03:58:14.950] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[19May2025 03:58:15.312] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1395 ms
+[19May2025 03:58:15.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.704s)! For help, type "help"
+[19May2025 03:58:15.383] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19May2025 03:58:15.536] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 142025 bytes (in 15 string chunks with the size of 10000)
+[19May2025 03:58:15.556] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: farsight.json
+[19May2025 03:58:15.558] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: clickadv.json
+[19May2025 03:58:15.558] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[19May2025 03:58:15.559] [Server thread/WARN] [ModernFix/]: Dedicated server took 26.909 seconds to load
+[19May2025 03:58:15.561] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
+[19May2025 03:58:16.481] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[19May2025 03:58:16.484] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[19May2025 03:58:16.485] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[19May2025 03:58:19.231] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19May2025 03:58:19.288] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19May2025 03:58:19.344] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19May2025 03:58:19.369] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19May2025 03:58:19.446] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19May2025 03:58:19.473] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19May2025 03:58:19.532] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19May2025 03:58:19.573] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19May2025 03:58:19.624] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19May2025 03:58:19.674] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19May2025 03:58:19.732] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19May2025 03:58:19.780] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19May2025 03:58:20.014] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19May2025 03:58:20.015] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19May2025 03:58:20.061] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19May2025 03:58:20.061] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19May2025 03:58:23.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DacSeed[/100.66.218.125:50783] logged in with entity id 467 at (-1038.699126483714, 78.0, 1268.9461129862627)
+[19May2025 03:58:23.249] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DacSeed
+[19May2025 03:58:23.251] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DacSeed
+[19May2025 03:58:23.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DacSeed
+[19May2025 03:58:23.252] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DacSeed
+[19May2025 03:58:23.269] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DacSeed
+[19May2025 03:58:23.278] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DacSeed
+[19May2025 03:58:23.278] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DacSeed
+[19May2025 03:58:23.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed joined the game
+[19May2025 03:58:23.452] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player DacSeed just logged in with id e482fb9d-1662-3de3-a0f9-70a239104a8d
+[19May2025 03:58:23.460] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
+[19May2025 03:58:23.460] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
+[19May2025 04:00:09.689] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[19May2025 04:00:09.738] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[19May2025 04:00:09.793] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[19May2025 04:00:09.854] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[19May2025 04:00:09.887] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[19May2025 04:00:09.941] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[19May2025 04:00:10.007] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[19May2025 04:00:10.104] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[19May2025 04:00:10.105] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[19May2025 04:00:10.147] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[19May2025 04:00:10.188] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[19May2025 04:00:10.238] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[19May2025 04:00:10.503] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[19May2025 04:00:10.504] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[19May2025 04:00:10.531] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[19May2025 04:00:10.542] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[19May2025 04:00:13.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:61380] logged in with entity id 969 at (-879.187933241526, 40.0, -2878.4431428073362)
+[19May2025 04:00:13.598] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
+[19May2025 04:00:13.599] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
+[19May2025 04:00:13.599] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
+[19May2025 04:00:13.600] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
+[19May2025 04:00:13.604] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
+[19May2025 04:00:13.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
+[19May2025 04:00:13.610] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
+[19May2025 04:00:13.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[19May2025 04:00:13.676] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[19May2025 04:00:13.683] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[19May2025 04:00:13.791] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[19May2025 04:01:30.638] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[19May2025 04:01:30.640] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[19May2025 04:01:30.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 32 entities]
+[19May2025 04:01:55.236] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[19May2025 04:02:25.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1419.500000, 80.000000, -599.500000]
+[19May2025 04:04:53.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DacSeed> -882 47 -2879
+[19May2025 04:05:00.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
+[19May2025 04:06:05.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 8 entities]
+[19May2025 04:07:33.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[19May2025 04:07:38.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[19May2025 04:07:55.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[19May2025 04:07:57.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[19May2025 04:08:10.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 14 entities]
+[19May2025 04:08:13.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1419.500000, 80.000000, -599.500000]
+[19May2025 04:11:52.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
+[19May2025 04:13:12.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> ./locate structure #dungeons_arise:explorer_maps/monastery
+[19May2025 04:13:37.664] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 107 ms
+[19May2025 04:13:48.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -879.500000, 75.000000, 1056.500000]
+[19May2025 04:15:24.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/6881, l='ServerLevel[world]', x=-893.73, y=82.64, z=1035.90] died, message: 'Fletcher bled to death'
+[19May2025 04:15:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [Neighborhood Brawl]
+[19May2025 04:16:41.269] [Server thread/INFO] [Scaling Health/]: Blight Iron Golem has died
+[19May2025 04:17:18.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 75.000000, 1256.500000]
+[19May2025 04:19:08.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1419.500000, 80.000000, -599.500000]
+[19May2025 04:19:44.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
+[19May2025 04:21:41.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
+[19May2025 04:22:17.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
+[19May2025 04:22:58.847] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[19May2025 04:24:48.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1419.500000, 80.000000, -599.500000]
+[19May2025 04:25:08.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
+[19May2025 04:26:00.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed was slain by Ombid
+[19May2025 04:26:00.012] [Server thread/INFO] [tombstone/]: The player DacSeed has successfully been saved
+[19May2025 04:26:07.015] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[19May2025 04:26:07.015] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[19May2025 04:26:08.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
+[19May2025 04:26:08.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['DacSeed'/11615, l='ServerLevel[world]', x=-1388.26, y=88.00, z=-626.50] died: DacSeed was slain by Ombid
+[19May2025 04:26:11.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed has made the advancement [A Strange Grave Dust]
+[19May2025 04:26:38.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 75.000000, 1256.500000]
+[19May2025 04:26:45.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
+[19May2025 04:27:13.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
+[19May2025 04:29:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1392.500000, 90.000000, -623.500000]
+[19May2025 04:31:16.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -881.500000, 47.000000, -2878.500000]
+[19May2025 04:31:40.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 75.000000, 1256.500000]
+[19May2025 04:31:48.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to Ombid]
+[19May2025 04:32:03.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 101.000000, 1256.500000]
+[19May2025 04:32:07.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
+[19May2025 04:32:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 101.000000, -1255.500000]
+[19May2025 04:32:41.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 101.000000, 1256.500000]
+[19May2025 04:33:15.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DacSeed: Teleported DacSeed to -1027.500000, 101.000000, 1241.500000]
+[19May2025 04:34:13.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to DacSeed]
+[19May2025 04:36:03.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DacSeed lost connection: Disconnected
+[19May2025 04:36:03.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DacSeed left the game
+[19May2025 04:36:03.468] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player DacSeed[e482fb9d-1662-3de3-a0f9-70a239104a8d]
+[19May2025 04:37:59.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1018, y=75, z=1256} BlockPos{x=-1016, y=75, z=1256}
+[19May2025 04:38:02.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[19May2025 04:38:02.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[19May2025 04:38:02.816] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[19May2025 04:38:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19May2025 04:38:08.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19May2025 04:38:08.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19May2025 04:38:08.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19May2025 04:38:08.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19May2025 04:38:09.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19May2025 04:38:09.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[19May2025 04:38:09.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[19May2025 04:38:09.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19May2025 04:38:09.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[19May2025 04:38:09.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19May2025 04:38:09.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19May2025 04:38:09.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[19May2025 04:38:09.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[19May2025 04:38:09.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19May2025 04:38:09.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[19May2025 04:38:09.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19May2025 04:38:09.068] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@62e79747

@@ -4096,15 +4096,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/misc/falsite_ingot_from_nuggets": {
-    "criteria": {
-      "has_item": "2025-05-19 03:42:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-05-19 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2025-05-19 03:42:05 +0000"
     },
     "done": true
   },
