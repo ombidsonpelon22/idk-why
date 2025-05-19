@@ -24,14 +24,19 @@
       "minecraft:birch_forest": "2025-05-15 08:01:23 +0000",
       "minecraft:beach": "2025-05-16 00:21:09 +0000",
       "minecraft:dark_forest": "2025-05-15 07:07:31 +0000",
+      "minecraft:sparse_jungle": "2025-05-18 23:01:39 +0000",
       "minecraft:river": "2025-05-15 08:00:19 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-18 23:10:20 +0000",
       "minecraft:snowy_plains": "2025-05-15 05:52:06 +0000",
       "minecraft:stony_shore": "2025-05-15 06:19:12 +0000",
       "minecraft:snowy_taiga": "2025-05-15 05:43:41 +0000",
       "minecraft:dripstone_caves": "2025-05-15 07:05:28 +0000",
       "minecraft:grove": "2025-05-15 06:07:22 +0000",
+      "minecraft:cold_ocean": "2025-05-18 23:58:15 +0000",
       "minecraft:forest": "2025-05-15 06:26:28 +0000",
       "minecraft:lush_caves": "2025-05-15 07:13:28 +0000",
+      "minecraft:jungle": "2025-05-18 23:00:35 +0000",
+      "minecraft:ocean": "2025-05-18 23:24:46 +0000",
       "minecraft:flower_forest": "2025-05-16 00:21:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-15 06:37:29 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-16 00:56:03 +0000",
@@ -610,6 +615,7 @@
       "minecraft:witch": "2025-05-15 23:26:59 +0000",
       "minecraft:wither_skeleton": "2025-05-16 00:58:47 +0000",
       "minecraft:husk": "2025-05-15 23:39:49 +0000",
+      "minecraft:cave_spider": "2025-05-18 23:30:55 +0000",
       "minecraft:stray": "2025-05-15 23:39:42 +0000",
       "minecraft:enderman": "2025-05-16 00:14:56 +0000",
       "minecraft:vex": "2025-05-15 23:38:52 +0000",
@@ -660,6 +666,7 @@
       "apple": "2025-05-15 23:22:41 +0000",
       "spider_eye": "2025-05-15 23:34:14 +0000",
       "potato": "2025-05-16 00:08:59 +0000",
+      "pumpkin_pie": "2025-05-18 23:27:49 +0000",
       "bread": "2025-05-15 08:06:00 +0000",
       "golden_apple": "2025-05-16 21:27:39 +0000",
       "rotten_flesh": "2025-05-15 07:17:40 +0000",
@@ -3822,6 +3829,282 @@
   "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_wall_stonecutting_cracked_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2025-05-18 20:05:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/comet_berry_pie_with_ventium": {
+    "criteria": {
+      "has_item": "2025-05-18 22:26:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/comet_berry_pie_with_iron": {
+    "criteria": {
+      "has_item": "2025-05-18 22:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-18 22:27:30 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-05-18 22:31:51 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2025-05-18 22:31:51 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2025-05-18 22:31:51 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2025-05-18 22:31:51 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2025-05-18 22:31:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_stairs_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_dripstone_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_button": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_slab": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/turquoise_stone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_slab_stonecutting_turquoise_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-18 22:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-18 22:46:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-18 22:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-18 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-18 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-18 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-18 22:55:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-05-18 22:57:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 23:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-18 23:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-18 23:56:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-05-19 00:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-19 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-19 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2025-05-19 03:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-19 03:02:24 +0000"
     },
     "done": true
   },
