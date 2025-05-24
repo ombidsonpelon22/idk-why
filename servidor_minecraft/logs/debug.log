@@ -4930,3 +4930,24 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 06:00:41.507] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [24May2025 06:00:41.515] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
 [24May2025 06:00:46.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 06:01:50.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Spooky Scary Skeleton]
+[24May2025 06:01:56.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['krinpa'/47639, l='ServerLevel[world]', x=-519.08, y=60.24, z=1364.85] died: krinpa was slain by Ombid
+[24May2025 06:02:07.626] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['krinpa'/45004, l='ServerLevel[world]', x=-515.85, y=59.97, z=1359.28] died: krinpa was slain by Ombid
+[24May2025 06:02:34.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Spooky Scary Army]
+[24May2025 06:02:59.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Boneyard]
+[24May2025 06:04:43.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 06:04:43.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 06:05:27.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[24May2025 06:05:35.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 06:05:43.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ombid
+[24May2025 06:05:43.792] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-496, y:70, z:1310, dim:minecraft:overworld]
+[24May2025 06:05:43.805] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 06:05:47.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Funeral Theft]
+[24May2025 06:05:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Discreet Search]
+[24May2025 06:05:50.671] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 06:05:50.671] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24May2025 06:05:50.677] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[24May2025 06:06:30.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 06:09:43.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 06:09:43.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 06:11:14.340] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51571, l='ServerLevel[world]', x=-939.19, y=58.35, z=1034.51] died, message: 'Villager was slain by Zombie'

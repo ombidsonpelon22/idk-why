@@ -2916,6 +2916,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-05-24 06:02:59 +0000"
+    },
+    "done": true
+  },
   "twilightforest:beanstalk": {
     "criteria": {
       "beans": "2025-05-24 04:44:10 +0000"
@@ -2949,6 +2955,12 @@
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-05-24 04:44:10 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-05-24 06:02:34 +0000"
     },
     "done": true
   },
@@ -3018,6 +3030,12 @@
     },
     "done": false
   },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2025-05-24 06:03:14 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-05-24 05:54:22 +0000"
@@ -3033,6 +3051,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-24 04:47:20 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/string_from_cloth": {
+    "criteria": {
+      "has_cloth": "2025-05-24 06:03:14 +0000"
     },
     "done": true
   },
@@ -3084,6 +3108,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2025-05-24 06:03:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-24 04:50:51 +0000"
@@ -3105,6 +3135,12 @@
   "majruszsdifficulty:kill_yourself": {
     "criteria": {
       "kill_yourself": "2025-05-24 04:27:58 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
+    "criteria": {
+      "has_cloth": "2025-05-24 06:03:14 +0000"
     },
     "done": true
   },
