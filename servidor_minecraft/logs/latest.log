@@ -585,3 +585,29 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 06:49:52.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
 [24May2025 06:50:06.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [24May2025 06:51:59.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[24May2025 06:52:52.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed Vindicator]
+[24May2025 06:53:00.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 06:54:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ravager
+[24May2025 06:54:34.454] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 06:54:41.007] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 06:54:41.007] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 06:54:45.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 06:54:55.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/69546, l='ServerLevel[world]', x=-1600.41, y=67.56, z=904.55] died, message: 'Librarian was slain by Vindicator'
+[24May2025 06:55:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa bled to death
+[24May2025 06:55:04.543] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 06:55:11.260] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 06:55:11.260] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 06:55:14.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/74094, l='ServerLevel[world]', x=-1601.23, y=59.94, z=944.32] died: krinpa was slain by Ombid
+[24May2025 06:56:33.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ravager
+[24May2025 06:56:33.962] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 06:56:40.577] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 06:56:40.578] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24May2025 06:56:46.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 06:57:04.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[24May2025 06:57:19.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/74444, l='ServerLevel[world]', x=-1600.57, y=65.00, z=914.50] died: krinpa was slain by krinpa
+[24May2025 06:59:44.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -1599.500000, 67.000000, 910.500000]
+[24May2025 06:59:52.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1027.500000, 101.000000, 1241.500000]
+[24May2025 07:00:02.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 07:01:12.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[24May2025 07:01:38.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> zzz
+[24May2025 07:02:47.394] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 0 ms
