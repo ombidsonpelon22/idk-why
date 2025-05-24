@@ -4111,9 +4111,27 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-24 04:22:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/lime_dye_from_polar_posy": {
+    "criteria": {
+      "has_item": "2025-05-24 04:40:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:beanstalk": {
     "criteria": {
       "beans": "2025-05-24 04:59:45 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-05-24 04:59:45 +0000"
     },
     "done": false
   },
@@ -4126,24 +4144,6 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-05-24 05:17:07 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:giants": {
-    "criteria": {
-      "pickaxe": "2025-05-24 04:59:45 +0000"
-    },
-    "done": false
-  },
-  "blue_skies:recipes/misc/lime_dye_from_polar_posy": {
-    "criteria": {
-      "has_item": "2025-05-24 04:40:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-05-24 04:22:42 +0000"
     },
     "done": true
   },
