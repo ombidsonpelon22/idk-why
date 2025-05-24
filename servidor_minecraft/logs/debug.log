@@ -4997,3 +4997,24 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 06:20:38.596] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
 [24May2025 06:20:47.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -503.500000, 63.000000, -1349.500000]
 [24May2025 06:20:54.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -503.500000, 63.000000, 1350.500000]
+[24May2025 06:22:03.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 06:22:30.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[24May2025 06:22:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -503.500000, 63.000000, 1350.500000]
+[24May2025 06:23:00.025] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 0 ms
+[24May2025 06:23:09.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -1631.500000, 150.000000, 912.500000]
+[24May2025 06:24:43.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 06:24:43.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 06:24:52.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 06:24:54.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[24May2025 06:25:17.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 06:27:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> -1600 67 910
+[24May2025 06:28:20.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/61237, l='ServerLevel[world]', x=-1637.50, y=64.00, z=892.50] died, message: 'Nitwit was slain by krinpa'
+[24May2025 06:28:44.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[24May2025 06:28:51.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -503.500000, 63.000000, 1350.500000]
+[24May2025 06:29:43.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 06:29:43.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 06:29:50.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> zzzzzzzzzzzzzzz
+[24May2025 06:29:53.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> zzzzzz
+[24May2025 06:31:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 06:31:25.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[24May2025 06:31:37.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
