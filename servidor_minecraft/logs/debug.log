@@ -4297,3 +4297,74 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 04:28:17.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 [24May2025 04:28:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LALALALALALAL
 [24May2025 04:28:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ESTOYLOCA
+[24May2025 04:29:39.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 04:29:39.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 04:29:56.848] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[24May2025 04:29:56.848] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[24May2025 04:31:30.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2823, l='ServerLevel[world]', x=-1299.70, y=97.00, z=1101.50] died, message: 'Villager was slain by Zombie'
+[24May2025 04:31:39.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2824, l='ServerLevel[world]', x=-1299.70, y=91.00, z=1115.48] died, message: 'Villager was slain by Zombie'
+[24May2025 04:31:42.971] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 1 ms
+[24May2025 04:31:44.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2825, l='ServerLevel[world]', x=-1299.70, y=91.00, z=1115.47] died, message: 'Villager bled to death'
+[24May2025 04:31:45.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1295.500000, 86.937500, 1136.500000]
+[24May2025 04:31:46.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2826, l='ServerLevel[world]', x=-1299.70, y=91.00, z=1118.47] died, message: 'Villager was slain by Zombie'
+[24May2025 04:33:04.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2834, l='ServerLevel[world]', x=-1314.28, y=89.00, z=1132.10] died, message: 'Librarian bled to death'
+[24May2025 04:33:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Hoglin
+[24May2025 04:33:07.306] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:119, y:44, z:516, dim:minecraft:the_nether]
+[24May2025 04:33:07.310] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 04:33:13.880] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 04:33:13.880] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24May2025 04:33:13.888] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[24May2025 04:33:27.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pene pene
+[24May2025 04:33:29.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pene
+[24May2025 04:33:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> dame amin
+[24May2025 04:33:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[24May2025 04:33:41.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ALALALAL
+[24May2025 04:33:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LA
+[24May2025 04:33:43.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LA
+[24May2025 04:33:45.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> JAKJKDSD
+[24May2025 04:33:46.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AKLSLDLKSDL
+[24May2025 04:33:48.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> DSDLSALKD
+[24May2025 04:33:50.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> DAME AMIN
+[24May2025 04:33:51.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LSALASDKLSAD
+[24May2025 04:33:53.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ALKDLSAKD
+[24May2025 04:33:54.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AKDKSDKA
+[24May2025 04:33:55.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Made krinpa a server operator]
+[24May2025 04:33:58.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> KPASO
+[24May2025 04:34:15.241] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[24May2025 04:34:39.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 04:34:39.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 04:34:42.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
+[24May2025 04:34:53.963] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-903, y=89, z=963} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 04:34:57.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by krinpa
+[24May2025 04:34:57.755] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:119, y:44, z:515, dim:minecraft:the_nether]
+[24May2025 04:34:57.762] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 04:35:04.233] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 04:35:04.233] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 04:35:04.252] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[24May2025 04:35:17.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
+[24May2025 04:35:28.207] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-903, y=89, z=963} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 04:35:32.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Piglin
+[24May2025 04:35:32.606] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:120, y:42, z:510, dim:minecraft:the_nether]
+[24May2025 04:35:32.614] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 04:35:39.367] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 04:35:39.367] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 04:35:39.391] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[24May2025 04:35:55.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
+[24May2025 04:36:06.210] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:the_nether] to BlockPos{x=-903, y=89, z=963} in ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 04:36:08.295] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because I'm not in a portal.
+[24May2025 04:36:08.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[24May2025 04:36:56.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> nolol
+[24May2025 04:37:57.749] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 69 ms
+[24May2025 04:37:59.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was killed
+[24May2025 04:37:59.436] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-1029, y:76, z:1253, dim:minecraft:overworld]
+[24May2025 04:37:59.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Killed krinpa]
+[24May2025 04:37:59.437] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 04:38:05.853] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 04:38:05.853] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 04:38:05.871] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[24May2025 04:38:16.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> -899 82 1036
+[24May2025 04:38:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[24May2025 04:38:24.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 04:38:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -898.500000, 82.000000, 1036.500000]
+[24May2025 04:38:39.778] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[24May2025 04:38:39.779] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]

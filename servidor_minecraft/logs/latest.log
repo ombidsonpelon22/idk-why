@@ -312,3 +312,54 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 04:28:17.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 [24May2025 04:28:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LALALALALALAL
 [24May2025 04:28:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ESTOYLOCA
+[24May2025 04:31:30.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2823, l='ServerLevel[world]', x=-1299.70, y=97.00, z=1101.50] died, message: 'Villager was slain by Zombie'
+[24May2025 04:31:39.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2824, l='ServerLevel[world]', x=-1299.70, y=91.00, z=1115.48] died, message: 'Villager was slain by Zombie'
+[24May2025 04:31:42.971] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 1 ms
+[24May2025 04:31:44.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2825, l='ServerLevel[world]', x=-1299.70, y=91.00, z=1115.47] died, message: 'Villager bled to death'
+[24May2025 04:31:45.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1295.500000, 86.937500, 1136.500000]
+[24May2025 04:31:46.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2826, l='ServerLevel[world]', x=-1299.70, y=91.00, z=1118.47] died, message: 'Villager was slain by Zombie'
+[24May2025 04:33:04.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2834, l='ServerLevel[world]', x=-1314.28, y=89.00, z=1132.10] died, message: 'Librarian bled to death'
+[24May2025 04:33:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Hoglin
+[24May2025 04:33:07.310] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 04:33:13.880] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 04:33:13.880] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24May2025 04:33:27.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pene pene
+[24May2025 04:33:29.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pene
+[24May2025 04:33:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> dame amin
+[24May2025 04:33:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[24May2025 04:33:41.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ALALALAL
+[24May2025 04:33:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LA
+[24May2025 04:33:43.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LA
+[24May2025 04:33:45.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> JAKJKDSD
+[24May2025 04:33:46.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AKLSLDLKSDL
+[24May2025 04:33:48.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> DSDLSALKD
+[24May2025 04:33:50.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> DAME AMIN
+[24May2025 04:33:51.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LSALASDKLSAD
+[24May2025 04:33:53.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ALKDLSAKD
+[24May2025 04:33:54.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AKDKSDKA
+[24May2025 04:33:55.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Made krinpa a server operator]
+[24May2025 04:33:58.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> KPASO
+[24May2025 04:34:15.241] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
+[24May2025 04:34:42.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
+[24May2025 04:34:57.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by krinpa
+[24May2025 04:34:57.762] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 04:35:04.233] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 04:35:04.233] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 04:35:17.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
+[24May2025 04:35:32.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Piglin
+[24May2025 04:35:32.614] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 04:35:39.367] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 04:35:39.367] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 04:35:55.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
+[24May2025 04:36:08.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[24May2025 04:36:56.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> nolol
+[24May2025 04:37:57.749] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 69 ms
+[24May2025 04:37:59.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was killed
+[24May2025 04:37:59.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Killed krinpa]
+[24May2025 04:37:59.437] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 04:38:05.853] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 04:38:05.853] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 04:38:16.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> -899 82 1036
+[24May2025 04:38:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
+[24May2025 04:38:24.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 04:38:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -898.500000, 82.000000, 1036.500000]
