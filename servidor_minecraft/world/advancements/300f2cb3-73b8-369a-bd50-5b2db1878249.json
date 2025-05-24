@@ -4110,6 +4110,18 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-05-24 04:59:45 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-05-24 04:59:45 +0000"
+    },
+    "done": false
+  },
   "blue_skies:recipes/misc/lime_dye_from_polar_posy": {
     "criteria": {
       "has_item": "2025-05-24 04:40:47 +0000"

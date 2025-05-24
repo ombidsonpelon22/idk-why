@@ -4391,3 +4391,36 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 04:57:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [24May2025 04:59:39.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24May2025 04:59:39.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 05:00:22.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
+[24May2025 05:00:38.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> D:
+[24May2025 05:02:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[24May2025 05:03:24.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> efna
+[24May2025 05:03:26.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> enfa
+[24May2025 05:03:29.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> lalalalallaal
+[24May2025 05:03:30.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> enfa
+[24May2025 05:04:03.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 101.000000, 1241.500000]
+[24May2025 05:04:09.359] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 05:04:09.360] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 05:04:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -898.500000, 82.000000, 1036.500000]
+[24May2025 05:04:39.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 05:04:39.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 05:04:49.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
+[24May2025 05:05:46.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 40.000000, -639.500000]
+[24May2025 05:05:58.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
+[24May2025 05:06:35.423] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 05:06:35.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[24May2025 05:06:52.945] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 6 ms
+[24May2025 05:06:56.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1295.500000, 69.000000, 1136.500000]
+[24May2025 05:07:36.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Zombie
+[24May2025 05:07:36.851] [Server thread/DEBUG] [tombstone/]: A new grave of the player krinpa was created at position [x:-941, y:59, z:1063, dim:minecraft:overworld]
+[24May2025 05:07:36.861] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 05:07:43.307] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 05:07:43.307] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 05:07:43.318] [Server thread/DEBUG] [twilightforest/]: Player krinpa (463284d9-6e0e-306d-9730-ebe3431451dd) respawned and received items held in storage
+[24May2025 05:07:44.999] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 0 ms
+[24May2025 05:07:52.542] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 0 ms
+[24May2025 05:07:55.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -940.500000, 59.000000, 1063.500000]
+[24May2025 05:08:05.250] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by krinpa
+[24May2025 05:08:17.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1295.500000, 87.000000, 1136.500000]
+[24May2025 05:09:39.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 05:09:39.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
