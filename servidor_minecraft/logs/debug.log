@@ -5227,3 +5227,49 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 10:14:43.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24May2025 10:19:43.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24May2025 10:19:43.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 10:24:43.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 10:24:43.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 10:25:26.273] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[24May2025 10:26:28.986] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:28.991] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.011] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.011] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.020] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.025] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.029] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.034] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.041] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.042] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.042] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.045] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.047] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.052] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.056] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.068] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.071] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.072] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 10:26:29.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 1581 entities]
+[24May2025 10:26:32.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[24May2025 10:26:32.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[24May2025 10:26:32.788] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[24May2025 10:27:54.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24May2025 10:27:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24May2025 10:27:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24May2025 10:27:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24May2025 10:27:54.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24May2025 10:27:54.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[24May2025 10:27:54.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[24May2025 10:27:54.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[24May2025 10:27:54.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24May2025 10:27:54.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24May2025 10:27:54.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 10:27:54.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24May2025 10:27:54.517] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@3d920edf
+[24May2025 10:27:54.517] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
