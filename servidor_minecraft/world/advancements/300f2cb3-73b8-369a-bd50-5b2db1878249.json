@@ -4285,6 +4285,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-05-24 21:45:55 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-05-24 21:31:11 +0000"
