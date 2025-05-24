@@ -5096,3 +5096,29 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 07:01:12.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
 [24May2025 07:01:38.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> zzz
 [24May2025 07:02:47.394] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 0 ms
+[24May2025 07:04:38.703] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[24May2025 07:04:38.703] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[24May2025 07:04:43.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 07:04:43.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 07:04:46.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
+[24May2025 07:05:14.698] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:everbright_blinding_dungeon took 0 ms
+[24May2025 07:05:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
+[24May2025 07:06:29.353] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[24May2025 07:06:29.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -879.500000, 90.000000, 1056.500000]
+[24May2025 07:06:43.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 07:07:22.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1027.500000, 101.000000, 1241.500000]
+[24May2025 07:07:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[24May2025 07:09:43.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 07:09:43.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 07:09:45.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Cover Me with Diamonds]
+[24May2025 07:10:47.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 101.000000, 1241.500000]
+[24May2025 07:10:50.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 64 [Bottle o' Enchanting] to krinpa]
+[24May2025 07:11:00.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set 0 experience points on krinpa]
+[24May2025 07:11:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set 0 experience levels on krinpa]
+[24May2025 07:11:17.257] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 07:11:17.257] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 07:11:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> :c
+[24May2025 07:11:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set 15 experience levels on krinpa]
+[24May2025 07:11:40.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Diamonds!]
+[24May2025 07:11:54.048] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[24May2025 07:11:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
