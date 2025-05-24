@@ -363,3 +363,12 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 04:38:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
 [24May2025 04:38:24.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [24May2025 04:38:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -898.500000, 82.000000, 1036.500000]
+[24May2025 04:40:17.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 04:41:16.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
+[24May2025 04:43:53.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> feik
+[24May2025 04:46:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ZZZZZZZZZZZZ
+[24May2025 04:46:21.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> caca
+[24May2025 04:51:04.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
+[24May2025 04:51:42.811] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:everbright_blinding_dungeon took 8 ms
+[24May2025 04:51:44.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 79.000000, -639.500000]
+[24May2025 04:57:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]

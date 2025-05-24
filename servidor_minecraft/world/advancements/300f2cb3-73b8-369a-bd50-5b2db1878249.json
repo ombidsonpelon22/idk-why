@@ -4110,6 +4110,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/lime_dye_from_polar_posy": {
+    "criteria": {
+      "has_item": "2025-05-24 04:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-05-24 04:22:42 +0000"
