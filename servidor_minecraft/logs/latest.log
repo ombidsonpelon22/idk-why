@@ -1,39 +1,39 @@
-[24May2025 04:19:14.530] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[24May2025 04:19:14.536] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[24May2025 04:19:15.373] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[24May2025 04:19:15.432] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/idk-why/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[24May2025 04:19:15.614] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/idk-why/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[24May2025 04:19:15.705] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[24May2025 04:19:15.707] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[24May2025 04:19:15.709] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[24May2025 04:19:15.710] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[24May2025 04:19:16.066] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[24May2025 04:19:16.068] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[24May2025 04:19:18.258] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
-[24May2025 04:19:18.267] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[24May2025 04:19:18.323] [main/ERROR] [mixin/]: Mixin config okzoomer.mixins.json does not specify "minVersion" property
-[24May2025 04:19:18.390] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[24May2025 04:19:18.483] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
-[24May2025 04:19:18.590] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.1+mc1.20.1: 84 options available, 0 override(s) found
-[24May2025 04:19:18.591] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[24May2025 04:19:18.607] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[24May2025 04:19:18.691] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[24May2025 04:19:18.693] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[24May2025 04:19:18.700] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 104 options available, 0 override(s) found
-[24May2025 04:19:18.934] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
-[24May2025 04:19:18.988] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[24May2025 04:19:20.776] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[24May2025 04:19:21.077] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[24May2025 04:19:21.297] [main/INFO] [mixin/]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.server.dedicated.DedicatedServer
-[24May2025 04:19:21.470] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[24May2025 21:29:48.013] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[24May2025 21:29:48.017] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[24May2025 21:29:48.878] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24May2025 21:29:48.929] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/idk-why/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[24May2025 21:29:49.122] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/idk-why/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[24May2025 21:29:49.214] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[24May2025 21:29:49.216] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24May2025 21:29:49.217] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24May2025 21:29:49.218] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/idk-why/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[24May2025 21:29:49.570] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[24May2025 21:29:49.572] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[24May2025 21:29:51.792] [main/ERROR] [mixin/]: Mixin config dynamiclightsreforged.mixins.json does not specify "minVersion" property
+[24May2025 21:29:51.801] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24May2025 21:29:51.872] [main/ERROR] [mixin/]: Mixin config okzoomer.mixins.json does not specify "minVersion" property
+[24May2025 21:29:51.953] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[24May2025 21:29:52.056] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 1 override(s) found
+[24May2025 21:29:52.186] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.1+mc1.20.1: 84 options available, 0 override(s) found
+[24May2025 21:29:52.187] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[24May2025 21:29:52.204] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[24May2025 21:29:52.295] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[24May2025 21:29:52.298] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[24May2025 21:29:52.307] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 106 options available, 0 override(s) found
+[24May2025 21:29:52.565] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[24May2025 21:29:52.626] [main/WARN] [Radium Config/]: Force-disabling mixin 'alloc.blockstate.StateMixin' as option 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[24May2025 21:29:54.324] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[24May2025 21:29:54.667] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[24May2025 21:29:54.863] [main/INFO] [mixin/]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.server.dedicated.DedicatedServer
+[24May2025 21:29:55.025] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
-	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
-	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23203!/:?]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23207!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -55,63 +55,73 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[24May2025 04:19:21.535] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.389 s after launch)
-[24May2025 04:19:21.637] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[24May2025 04:19:21.637] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[24May2025 04:19:22.453] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[24May2025 04:19:22.454] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[24May2025 04:19:22.454] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[24May2025 04:19:23.398] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1860 milliseconds
-[24May2025 04:19:23.461] [main/INFO] [mixin/]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.network.FriendlyByteBuf
-[24May2025 04:19:23.463] [main/INFO] [mixin/]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md2a8b5e$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
-[24May2025 04:19:23.463] [main/INFO] [mixin/]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md2a8b5e$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
-[24May2025 04:19:25.378] [main/INFO] [mixin/]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
-[24May2025 04:19:26.192] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[24May2025 04:19:26.602] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
-[24May2025 04:19:26.634] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[24May2025 04:19:26.639] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
-[24May2025 04:19:26.749] [modloading-worker-0/INFO] [mixin/]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.server.players.PlayerList
-[24May2025 04:19:27.672] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[24May2025 04:19:27.737] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
-[24May2025 04:19:27.843] [modloading-worker-0/INFO] [NoChatReports/]: KONNICHIWA ZA WARUDO!
-[24May2025 04:19:27.846] [modloading-worker-0/INFO] [NoChatReports/]: Default JVM text encoding is: UTF-8
-[24May2025 04:19:27.851] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Common.json...
-[24May2025 04:19:27.853] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Common.json...
-[24May2025 04:19:27.895] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
-[24May2025 04:19:27.916] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
-[24May2025 04:19:28.032] [modloading-worker-0/INFO] [me.wesley1808.servercore.common.ServerCore/]: [ServerCore] Loaded V1.5.2+1.20.1!
-[24May2025 04:19:28.071] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[24May2025 04:19:28.175] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[24May2025 04:19:28.200] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[24May2025 04:19:28.204] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[24May2025 04:19:31.034] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[24May2025 04:19:31.044] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[24May2025 04:19:31.047] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[24May2025 04:19:31.050] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[24May2025 04:19:31.596] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[24May2025 04:19:31.620] [modloading-worker-0/INFO] [com.clickadv.ClickAdvancements/]: clickadv mod initialized
-[24May2025 04:19:31.621] [modloading-worker-0/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
-[24May2025 04:19:31.696] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
-[24May2025 04:19:31.698] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
-[24May2025 04:19:31.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
-[24May2025 04:19:31.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: OUTDATED Current: 0.12.3+git.50c5c33 Target: 0.12.4
-[24May2025 04:19:31.930] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[24May2025 04:19:32.139] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
-[24May2025 04:19:32.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
-[24May2025 04:19:32.145] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[24May2025 04:19:32.145] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[24May2025 04:19:32.147] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[24May2025 21:29:55.093] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.369 s after launch)
+[24May2025 21:29:55.194] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[24May2025 21:29:55.195] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[24May2025 21:29:56.140] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[24May2025 21:29:56.140] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[24May2025 21:29:56.140] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[24May2025 21:29:57.000] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1904 milliseconds
+[24May2025 21:29:57.064] [main/INFO] [mixin/]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.network.FriendlyByteBuf
+[24May2025 21:29:57.066] [main/INFO] [mixin/]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md9e45fb$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
+[24May2025 21:29:57.066] [main/INFO] [mixin/]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md9e45fb$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf
+[24May2025 21:29:58.720] [main/INFO] [mixin/]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl
+[24May2025 21:29:59.390] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[24May2025 21:29:59.760] [modloading-worker-0/INFO] [dynamiclightsreforged/]: [LambDynLights] Initializing Dynamic Lights Reforged...
+[24May2025 21:29:59.787] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
+[24May2025 21:29:59.798] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[24May2025 21:29:59.886] [modloading-worker-0/INFO] [mixin/]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.server.players.PlayerList
+[24May2025 21:30:00.505] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[24May2025 21:30:00.625] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[24May2025 21:30:00.646] [modloading-worker-0/INFO] [NoChatReports/]: KONNICHIWA ZA WARUDO!
+[24May2025 21:30:00.647] [modloading-worker-0/INFO] [NoChatReports/]: Default JVM text encoding is: UTF-8
+[24May2025 21:30:00.651] [modloading-worker-0/INFO] [NoChatReports/]: Reading config file NoChatReports/NCR-Common.json...
+[24May2025 21:30:00.654] [modloading-worker-0/INFO] [NoChatReports/]: Writing config file NoChatReports/NCR-Common.json...
+[24May2025 21:30:00.730] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
+[24May2025 21:30:00.752] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[24May2025 21:30:00.796] [modloading-worker-0/INFO] [me.wesley1808.servercore.common.ServerCore/]: [ServerCore] Loaded V1.5.2+1.20.1!
+[24May2025 21:30:00.887] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[24May2025 21:30:00.932] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24May2025 21:30:00.940] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[24May2025 21:30:00.940] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[24May2025 21:30:03.650] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[24May2025 21:30:03.663] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[24May2025 21:30:03.667] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[24May2025 21:30:03.670] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[24May2025 21:30:04.028] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/idk-why/servidor_minecraft/config/travelersbackpack-common.toml is not correct. Correcting
+[24May2025 21:30:04.029] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:04.029] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.enableLoot was corrected from null to its default, true. 
+[24May2025 21:30:04.030] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.enableVillagerTrade was corrected from null to its default, true. 
+[24May2025 21:30:04.194] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[24May2025 21:30:04.210] [modloading-worker-0/INFO] [com.clickadv.ClickAdvancements/]: clickadv mod initialized
+[24May2025 21:30:04.210] [modloading-worker-0/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
+[24May2025 21:30:04.266] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
+[24May2025 21:30:04.268] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[24May2025 21:30:04.269] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[24May2025 21:30:04.321] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[24May2025 21:30:04.321] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[24May2025 21:30:04.321] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[24May2025 21:30:04.322] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[24May2025 21:30:04.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: OUTDATED Current: 0.12.3+git.50c5c33 Target: 0.12.4
+[24May2025 21:30:04.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[24May2025 21:30:04.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: BETA Current: 1.3.31 Target: null
+[24May2025 21:30:04.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[24May2025 21:30:04.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[24May2025 21:30:04.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[24May2025 21:30:04.735] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[24May2025 21:30:04.739] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24May2025 21:30:04.740] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
 java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:26) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23193!/:1.20.1-4.3.0]
-	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23193!/:1.20.1-4.3.0]
-	at com.github.exopandora.shouldersurfing.forge.plugin.PluginLoaderForge.loadPlugins(PluginLoaderForge.java:23) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23193!/:1.20.1-4.3.0]
-	at com.github.exopandora.shouldersurfing.forge.ShoulderSurfingForge.loadComplete(ShoulderSurfingForge.java:56) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23193!/:1.20.1-4.3.0]
+	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:26) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23195!/:1.20.1-4.3.0]
+	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23195!/:1.20.1-4.3.0]
+	at com.github.exopandora.shouldersurfing.forge.plugin.PluginLoaderForge.loadPlugins(PluginLoaderForge.java:23) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23195!/:1.20.1-4.3.0]
+	at com.github.exopandora.shouldersurfing.forge.ShoulderSurfingForge.loadComplete(ShoulderSurfingForge.java:56) ~[ShoulderSurfing-Forge-1.20.1-4.3.0.jar%23195!/:1.20.1-4.3.0]
 	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2350!/:?]
 	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2350!/:?]
 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2350!/:?]
 	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2350!/:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:121) ~[javafmllanguage-1.20.1-47.4.0.jar%23205!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:127) ~[fmlcore-1.20.1-47.4.0.jar%23204!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:121) ~[javafmllanguage-1.20.1-47.4.0.jar%23209!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$5(ModContainer.java:127) ~[fmlcore-1.20.1-47.4.0.jar%23208!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
@@ -131,569 +141,354 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 17 more
-[24May2025 04:19:32.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
-[24May2025 04:19:32.180] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
-[24May2025 04:19:32.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
-[24May2025 04:19:32.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[24May2025 04:19:32.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[24May2025 04:19:32.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[24May2025 04:19:32.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[24May2025 04:19:32.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[24May2025 04:19:32.728] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[24May2025 04:19:32.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
-[24May2025 04:19:32.764] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24May2025 04:19:32.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
-[24May2025 04:19:32.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[24May2025 04:19:32.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
-[24May2025 04:19:32.853] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
-[24May2025 04:19:32.887] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[24May2025 04:19:32.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: OUTDATED Current: 0.5.4.3+mc1.20.1-build.121 Target: 0.5.4.4+mc1.20.1-build.131
-[24May2025 04:19:32.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Starting version check at https://api.modrinth.com/updates/rrls/forge_updates.json
-[24May2025 04:19:33.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Found status: UP_TO_DATE Current: 4.0.6.1+mc1.20.1-forge Target: null
-[24May2025 04:19:33.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[24May2025 04:19:33.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[24May2025 04:19:33.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24May2025 04:19:33.184] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/idk-why/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/assets/.mcassetsroot' uses unexpected schema
-[24May2025 04:19:33.186] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/idk-why/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23203!/data/.mcassetsroot' uses unexpected schema
-[24May2025 04:19:33.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[24May2025 04:19:33.240] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[24May2025 04:19:33.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[24May2025 04:19:34.974] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
-[24May2025 04:19:35.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[24May2025 04:19:36.000] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[24May2025 04:19:36.006] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[24May2025 04:19:36.007] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[24May2025 04:19:36.009] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[24May2025 04:19:36.011] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[24May2025 04:19:36.016] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[24May2025 04:19:36.018] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[24May2025 04:19:36.020] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[24May2025 04:19:36.151] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2567 advancements
-[24May2025 04:19:36.157] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[24May2025 04:19:36.158] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[24May2025 04:19:36.158] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[24May2025 04:19:36.159] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[24May2025 04:19:36.177] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[24May2025 04:19:36.180] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[24May2025 04:19:36.180] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[24May2025 04:19:36.181] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[24May2025 04:19:36.182] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[24May2025 04:19:36.494] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 22 milliseconds
-[24May2025 04:19:36.497] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 2 milliseconds
-[24May2025 04:19:36.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[24May2025 04:19:36.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24May2025 04:19:36.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24May2025 04:19:36.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24May2025 04:19:36.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24May2025 04:19:36.642] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[24May2025 04:19:36.738] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24May2025 04:19:36.739] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24May2025 04:19:36.739] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24May2025 04:19:36.739] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24May2025 04:19:36.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24May2025 04:19:36.851] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping servercore.common.mixins.json:optimizations.ticking.chunk.cache.ServerChunkCacheMixin->@Redirect::servercore$noList(I)Ljava/util/ArrayList; with priority 900, already redirected by lithium.mixins.json:alloc.chunk_ticking.ServerChunkManagerMixin->@Redirect::redirectChunksListClone(I)Ljava/util/ArrayList; with priority 1000
-[24May2025 04:19:37.392] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
-[24May2025 04:19:38.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24May2025 04:19:38.037] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[24May2025 04:19:39.180] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 04:19:39.180] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 04:19:39.180] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[24May2025 04:19:39.638] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1606 ms
-[24May2025 04:19:39.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.886s)! For help, type "help"
-[24May2025 04:19:39.681] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[24May2025 04:19:39.757] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 142025 bytes (in 15 string chunks with the size of 10000)
-[24May2025 04:19:39.779] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: farsight.json
-[24May2025 04:19:39.780] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: clickadv.json
-[24May2025 04:19:39.781] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
-[24May2025 04:19:39.782] [Server thread/WARN] [ModernFix/]: Dedicated server took 27.637 seconds to load
-[24May2025 04:19:39.784] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
-[24May2025 04:20:09.915] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
-[24May2025 04:20:09.918] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
-[24May2025 04:20:09.919] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
-[24May2025 04:20:35.774] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[24May2025 04:20:35.875] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[24May2025 04:20:35.879] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[24May2025 04:20:35.895] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[24May2025 04:20:35.939] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[24May2025 04:20:35.952] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[24May2025 04:20:35.975] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[24May2025 04:20:35.976] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[24May2025 04:20:35.996] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[24May2025 04:20:35.999] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[24May2025 04:20:36.000] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[24May2025 04:20:36.002] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[24May2025 04:20:37.720] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[24May2025 04:20:37.721] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[24May2025 04:20:37.745] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[24May2025 04:20:37.826] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[24May2025 04:20:40.106] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:50407] logged in with entity id 466 at (-1018.8602883190459, 76.0, 1253.0195583075265)
-[24May2025 04:20:40.138] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
-[24May2025 04:20:40.140] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
-[24May2025 04:20:40.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
-[24May2025 04:20:40.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
-[24May2025 04:20:40.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
-[24May2025 04:20:40.158] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
-[24May2025 04:20:40.158] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
-[24May2025 04:20:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
-[24May2025 04:20:40.369] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
-[24May2025 04:20:40.374] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
-[24May2025 04:20:40.865] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
-[24May2025 04:21:10.006] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[24May2025 04:21:10.012] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[24May2025 04:21:10.016] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[24May2025 04:21:10.043] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[24May2025 04:21:10.103] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[24May2025 04:21:10.148] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[24May2025 04:21:10.198] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[24May2025 04:21:10.329] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[24May2025 04:21:10.333] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[24May2025 04:21:10.356] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[24May2025 04:21:10.453] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[24May2025 04:21:10.454] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[24May2025 04:21:10.926] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[24May2025 04:21:10.932] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[24May2025 04:21:10.940] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[24May2025 04:21:10.966] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[24May2025 04:21:14.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: krinpa[/100.104.79.38:60543] logged in with entity id 720 at (133.30000001192093, 33.0, 361.41828622808526)
-[24May2025 04:21:14.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to krinpa
-[24May2025 04:21:14.272] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to krinpa
-[24May2025 04:21:14.273] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to krinpa
-[24May2025 04:21:14.273] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to krinpa
-[24May2025 04:21:14.278] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to krinpa
-[24May2025 04:21:14.282] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to krinpa
-[24May2025 04:21:14.282] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to krinpa
-[24May2025 04:21:14.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa joined the game
-[24May2025 04:21:14.329] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player krinpa just logged in with id 463284d9-6e0e-306d-9730-ebe3431451dd
-[24May2025 04:21:14.330] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[24May2025 04:21:14.612] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/krinpa
-[24May2025 04:21:39.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> tirenparo
-[24May2025 04:22:23.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> TIREN PARO
-[24May2025 04:22:26.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> TIREN PARO
-[24May2025 04:22:30.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> TIREN PAROOOOOOOOOOOOOOOO
-[24May2025 04:22:33.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> TIREN PARO
-[24May2025 04:22:38.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ESTOY EN EL INFIERNO
-[24May2025 04:22:41.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 04:22:41.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AYUDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[24May2025 04:22:42.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Those Were the Days]
-[24May2025 04:23:26.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 04:23:34.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa tried to swim in lava
-[24May2025 04:23:34.146] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 04:23:42.254] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 04:23:42.255] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 04:23:42.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 04:25:12.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AYUDA
-[24May2025 04:25:17.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AYUDAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[24May2025 04:25:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> PAPAS NO SE PELEEN PORFAVOR
-[24May2025 04:25:56.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 04:26:35.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ombid
-[24May2025 04:26:35.522] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 04:26:35.574] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[24May2025 04:26:35.574] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 18 is dual wielding: false
-[24May2025 04:26:35.574] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[24May2025 04:26:35.575] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[24May2025 04:26:35.575] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
-[24May2025 04:26:42.433] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 04:26:42.433] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 04:26:43.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 04:26:54.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 04:27:03.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 04:27:13.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 04:27:14.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ombid
-[24May2025 04:27:14.283] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 04:27:19.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 04:27:20.903] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 04:27:20.904] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 04:27:22.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 04:27:32.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Gave 1 [Ender Pearl] to krinpa]
-[24May2025 04:27:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
-[24May2025 04:27:58.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/2170, l='ServerLevel[world]', x=173.64, y=33.00, z=359.14] died: krinpa was slain by krinpa
-[24May2025 04:28:09.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> DENME AMIN
-[24May2025 04:28:13.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[24May2025 04:28:17.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[24May2025 04:28:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LALALALALALAL
-[24May2025 04:28:23.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ESTOYLOCA
-[24May2025 04:31:30.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2823, l='ServerLevel[world]', x=-1299.70, y=97.00, z=1101.50] died, message: 'Villager was slain by Zombie'
-[24May2025 04:31:39.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2824, l='ServerLevel[world]', x=-1299.70, y=91.00, z=1115.48] died, message: 'Villager was slain by Zombie'
-[24May2025 04:31:42.971] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 1 ms
-[24May2025 04:31:44.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2825, l='ServerLevel[world]', x=-1299.70, y=91.00, z=1115.47] died, message: 'Villager bled to death'
-[24May2025 04:31:45.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1295.500000, 86.937500, 1136.500000]
-[24May2025 04:31:46.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2826, l='ServerLevel[world]', x=-1299.70, y=91.00, z=1118.47] died, message: 'Villager was slain by Zombie'
-[24May2025 04:33:04.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2834, l='ServerLevel[world]', x=-1314.28, y=89.00, z=1132.10] died, message: 'Librarian bled to death'
-[24May2025 04:33:07.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Hoglin
-[24May2025 04:33:07.310] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 04:33:13.880] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 04:33:13.880] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[24May2025 04:33:27.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pene pene
-[24May2025 04:33:29.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> pene
-[24May2025 04:33:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> dame amin
-[24May2025 04:33:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[24May2025 04:33:41.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ALALALAL
-[24May2025 04:33:43.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LA
-[24May2025 04:33:43.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LA
-[24May2025 04:33:45.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> JAKJKDSD
-[24May2025 04:33:46.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AKLSLDLKSDL
-[24May2025 04:33:48.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> DSDLSALKD
-[24May2025 04:33:50.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> DAME AMIN
-[24May2025 04:33:51.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> LSALASDKLSAD
-[24May2025 04:33:53.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ALKDLSAKD
-[24May2025 04:33:54.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> AKDKSDKA
-[24May2025 04:33:55.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Made krinpa a server operator]
-[24May2025 04:33:58.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> KPASO
-[24May2025 04:34:15.241] [Server thread/INFO] [Scaling Health/]: Blight Zombie has died
-[24May2025 04:34:42.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
-[24May2025 04:34:57.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by krinpa
-[24May2025 04:34:57.762] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 04:35:04.233] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 04:35:04.233] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 04:35:17.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
-[24May2025 04:35:32.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Piglin
-[24May2025 04:35:32.614] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 04:35:39.367] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 04:35:39.367] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 04:35:55.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 1 [Ender Pearl] to krinpa]
-[24May2025 04:36:08.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 04:36:56.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> nolol
-[24May2025 04:37:57.749] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 69 ms
-[24May2025 04:37:59.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was killed
-[24May2025 04:37:59.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Killed krinpa]
-[24May2025 04:37:59.437] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 04:38:05.853] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 04:38:05.853] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 04:38:16.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> -899 82 1036
-[24May2025 04:38:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 04:38:24.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 04:38:30.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -898.500000, 82.000000, 1036.500000]
-[24May2025 04:40:17.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 04:41:16.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[24May2025 04:43:53.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> feik
-[24May2025 04:46:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> ZZZZZZZZZZZZ
-[24May2025 04:46:21.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> caca
-[24May2025 04:51:04.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
-[24May2025 04:51:42.811] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:everbright_blinding_dungeon took 8 ms
-[24May2025 04:51:44.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 79.000000, -639.500000]
-[24May2025 04:57:50.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 05:00:22.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[24May2025 05:00:38.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> D:
-[24May2025 05:02:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 05:03:24.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> efna
-[24May2025 05:03:26.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> enfa
-[24May2025 05:03:29.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> lalalalallaal
-[24May2025 05:03:30.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> enfa
-[24May2025 05:04:03.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 101.000000, 1241.500000]
-[24May2025 05:04:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -898.500000, 82.000000, 1036.500000]
-[24May2025 05:04:49.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[24May2025 05:05:46.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 40.000000, -639.500000]
-[24May2025 05:05:58.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
-[24May2025 05:06:35.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 05:06:52.945] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 6 ms
-[24May2025 05:06:56.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1295.500000, 69.000000, 1136.500000]
-[24May2025 05:07:36.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Zombie
-[24May2025 05:07:36.861] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 05:07:43.307] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 05:07:43.307] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 05:07:44.999] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 0 ms
-[24May2025 05:07:52.542] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 0 ms
-[24May2025 05:07:55.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -940.500000, 59.000000, 1063.500000]
-[24May2025 05:08:05.250] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by krinpa
-[24May2025 05:08:17.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1295.500000, 87.000000, 1136.500000]
-[24May2025 05:13:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
-[24May2025 05:16:29.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -1099.500000, 150.000000, -1199.500000]
-[24May2025 05:16:29.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3283ms or 65 ticks behind
-[24May2025 05:16:29.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid moved too quickly! 6.8402560727074615,5.086094079315515,-5.380729280569881
-[24May2025 05:16:43.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25683, l='ServerLevel[world]', x=-1047.28, y=79.00, z=-1204.37] died, message: 'Villager suffocated in a wall'
-[24May2025 05:16:51.824] [Worker-Main-89/INFO] [ModernFix/]: Instantiating Mojang DFU
-[24May2025 05:17:00.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25682, l='ServerLevel[world]', x=-1044.40, y=78.00, z=-1203.55] died, message: 'Villager was slain by Zombie'
-[24May2025 05:18:15.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -880.500000, 47.000000, -2877.500000]
-[24May2025 05:18:49.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25695, l='ServerLevel[world]', x=-1087.50, y=80.00, z=-1279.50] died, message: 'Villager bled to death'
-[24May2025 05:19:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
-[24May2025 05:20:14.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25692, l='ServerLevel[world]', x=-1045.54, y=85.00, z=-1248.44] died, message: 'Villager was slain by Zombie'
-[24May2025 05:20:18.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25670, l='ServerLevel[world]', x=-1051.50, y=82.94, z=-1248.39] died, message: 'Villager was slain by Zombie'
-[24May2025 05:20:38.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25753, l='ServerLevel[world]', x=-1074.42, y=88.00, z=-1246.60] died, message: 'Villager was slain by Zombie'
-[24May2025 05:21:10.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -880.500000, 47.000000, -2877.500000]
-[24May2025 05:22:10.407] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
-[24May2025 05:22:56.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 7 entities]
-[24May2025 05:26:23.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/25668, l='ServerLevel[world]', x=-1085.48, y=89.00, z=-1254.46] died, message: 'Farmer was slain by krinpa'
-[24May2025 05:26:23.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Neighborhood Brawl]
-[24May2025 05:26:58.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/25672, l='ServerLevel[world]', x=-1101.85, y=87.00, z=-1245.19] died, message: 'Nitwit was slain by krinpa'
-[24May2025 05:27:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> aligment decreased
-[24May2025 05:27:14.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> :,V
-[24May2025 05:27:44.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 05:28:56.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 40.000000, -2878.500000]
-[24May2025 05:29:06.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 101.000000, -2878.500000]
-[24May2025 05:29:18.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 101.000000, -1240.500000]
-[24May2025 05:29:35.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 101.000000, 1241.500000]
-[24May2025 05:30:25.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
-[24May2025 05:31:21.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 05:36:23.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
-[24May2025 05:36:23.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
-[24May2025 05:36:23.089] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
-[24May2025 05:36:27.665] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[24May2025 05:36:27.707] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[24May2025 05:36:27.753] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[24May2025 05:36:27.813] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[24May2025 05:36:27.860] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[24May2025 05:36:27.907] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[24May2025 05:36:27.957] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[24May2025 05:36:28.006] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[24May2025 05:36:28.057] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[24May2025 05:36:28.104] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[24May2025 05:36:28.155] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[24May2025 05:36:28.203] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[24May2025 05:36:28.412] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[24May2025 05:36:28.412] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[24May2025 05:36:28.413] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[24May2025 05:36:28.419] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[24May2025 05:36:31.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:50728] logged in with entity id 33519 at (-1008.5863036131635, 75.0, 1243.699999988079)
-[24May2025 05:36:31.553] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
-[24May2025 05:36:31.553] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
-[24May2025 05:36:31.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
-[24May2025 05:36:31.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
-[24May2025 05:36:31.556] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
-[24May2025 05:36:31.559] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
-[24May2025 05:36:31.559] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
-[24May2025 05:36:31.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
-[24May2025 05:36:31.626] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
-[24May2025 05:36:31.627] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
-[24May2025 05:36:31.731] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
-[24May2025 05:39:48.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 05:42:26.863] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
-[24May2025 05:42:26.864] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
-[24May2025 05:42:26.865] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
-[24May2025 05:47:35.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 05:48:01.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Funeral Theft]
-[24May2025 05:51:04.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 05:51:51.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> aya
-[24May2025 05:52:44.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Zombie
-[24May2025 05:52:44.265] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 05:52:51.003] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 05:52:51.003] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[24May2025 05:52:57.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 05:53:54.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [The Parrots and the Bats]
-[24May2025 05:54:22.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has reached the goal [Bone Crusher]
-[24May2025 05:56:12.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Zombie
-[24May2025 05:56:12.467] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 05:56:19.235] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 05:56:19.236] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 05:56:23.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 05:56:44.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/45829, l='ServerLevel[world]', x=-504.51, y=63.00, z=1350.90] died: krinpa was slain by Wolf
-[24May2025 05:58:27.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Tank
-[24May2025 05:58:27.156] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 05:58:33.711] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 05:58:33.711] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 05:58:38.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 05:59:35.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by krinpa
-[24May2025 05:59:35.414] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 05:59:41.816] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 05:59:41.817] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[24May2025 05:59:46.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 06:00:34.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Cerberus
-[24May2025 06:00:34.905] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 06:00:41.507] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 06:00:41.507] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[24May2025 06:00:46.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 06:01:50.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Spooky Scary Skeleton]
-[24May2025 06:01:56.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['krinpa'/47639, l='ServerLevel[world]', x=-519.08, y=60.24, z=1364.85] died: krinpa was slain by Ombid
-[24May2025 06:02:07.626] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['krinpa'/45004, l='ServerLevel[world]', x=-515.85, y=59.97, z=1359.28] died: krinpa was slain by Ombid
-[24May2025 06:02:34.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Spooky Scary Army]
-[24May2025 06:02:59.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Boneyard]
-[24May2025 06:05:27.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[24May2025 06:05:35.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[24May2025 06:05:43.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ombid
-[24May2025 06:05:43.805] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 06:05:47.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has made the advancement [Funeral Theft]
-[24May2025 06:05:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid has reached the goal [Discreet Search]
-[24May2025 06:05:50.671] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 06:05:50.671] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[24May2025 06:06:30.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 06:11:14.340] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51571, l='ServerLevel[world]', x=-939.19, y=58.35, z=1034.51] died, message: 'Villager was slain by Zombie'
-[24May2025 06:11:47.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 06:13:35.140] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_taiga took 0 ms
-[24May2025 06:13:36.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1295.500000, 64.000000, 1136.500000]
-[24May2025 06:14:27.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[24May2025 06:14:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[24May2025 06:16:04.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1199.500000, 80.000000, -1099.500000]
-[24May2025 06:16:32.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 06:16:37.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[24May2025 06:16:53.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[24May2025 06:18:47.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 504.500000, 63.000000, 1350.500000]
-[24May2025 06:18:57.954] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
-[24May2025 06:18:58.429] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
-[24May2025 06:18:58.430] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
-[24May2025 06:18:58.440] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
-[24May2025 06:18:59.563] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
-[24May2025 06:18:59.564] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
-[24May2025 06:18:59.570] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
-[24May2025 06:18:59.570] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
-[24May2025 06:18:59.570] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
-[24May2025 06:18:59.872] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
-[24May2025 06:18:59.872] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
-[24May2025 06:19:43.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[24May2025 06:20:24.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 504.500000, 63.000000, -1349.500000]
-[24May2025 06:20:37.861] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
-[24May2025 06:20:37.861] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
-[24May2025 06:20:37.861] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
-[24May2025 06:20:37.861] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
-[24May2025 06:20:37.861] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
-[24May2025 06:20:37.862] [Worker-Main-62/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
-[24May2025 06:20:38.596] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
-[24May2025 06:20:38.596] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
-[24May2025 06:20:38.596] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
-[24May2025 06:20:47.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -503.500000, 63.000000, -1349.500000]
-[24May2025 06:20:54.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -503.500000, 63.000000, 1350.500000]
-[24May2025 06:22:03.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[24May2025 06:22:30.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[24May2025 06:22:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -503.500000, 63.000000, 1350.500000]
-[24May2025 06:23:00.025] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 0 ms
-[24May2025 06:23:09.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -1631.500000, 150.000000, 912.500000]
-[24May2025 06:24:52.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[24May2025 06:24:54.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[24May2025 06:25:17.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[24May2025 06:27:12.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> -1600 67 910
-[24May2025 06:28:20.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/61237, l='ServerLevel[world]', x=-1637.50, y=64.00, z=892.50] died, message: 'Nitwit was slain by krinpa'
-[24May2025 06:28:44.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[24May2025 06:28:51.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -503.500000, 63.000000, 1350.500000]
-[24May2025 06:29:50.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> zzzzzzzzzzzzzzz
-[24May2025 06:29:53.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ombid> zzzzzz
-[24May2025 06:31:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 06:31:25.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 06:31:37.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 06:32:18.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[24May2025 06:32:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 06:41:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -1599.500000, 67.000000, 910.500000]
-[24May2025 06:42:02.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 06:44:17.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was shot by Pillager
-[24May2025 06:44:17.758] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 06:44:24.409] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 06:44:24.409] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 06:44:38.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/70711, l='ServerLevel[world]', x=-1655.47, y=67.00, z=924.38] died: krinpa was slain by Ombid
-[24May2025 06:46:08.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/69526, l='ServerLevel[world]', x=-1615.95, y=64.00, z=919.33] died, message: 'Fletcher was slain by Zombie'
-[24May2025 06:46:23.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/69559, l='ServerLevel[world]', x=-1630.53, y=64.94, z=906.51] died, message: 'Farmer was slain by Vindicator'
-[24May2025 06:46:35.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/69504, l='ServerLevel[world]', x=-1612.47, y=66.24, z=913.49] died, message: 'Farmer bled to death'
-[24May2025 06:46:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vex
-[24May2025 06:46:40.757] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 06:46:47.263] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 06:46:47.264] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[24May2025 06:46:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 06:47:08.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/71586, l='ServerLevel[world]', x=-1669.08, y=66.00, z=899.92] died: krinpa was slain by Ombid
-[24May2025 06:47:31.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/69503, l='ServerLevel[world]', x=-1597.43, y=65.00, z=911.31] died, message: 'Mason was slain by Vindicator'
-[24May2025 06:47:37.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Spider
-[24May2025 06:47:37.659] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 06:47:44.290] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 06:47:44.290] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 06:47:52.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/72013, l='ServerLevel[world]', x=-1633.78, y=62.25, z=888.17] died: krinpa was slain by Ombid
-[24May2025 06:48:10.056] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Ombid
-[24May2025 06:49:52.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 06:50:06.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 06:51:59.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
-[24May2025 06:52:52.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed Vindicator]
-[24May2025 06:53:00.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[24May2025 06:54:34.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ravager
-[24May2025 06:54:34.454] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 06:54:41.007] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 06:54:41.007] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 06:54:45.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 06:54:55.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/69546, l='ServerLevel[world]', x=-1600.41, y=67.56, z=904.55] died, message: 'Librarian was slain by Vindicator'
-[24May2025 06:55:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa bled to death
-[24May2025 06:55:04.543] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 06:55:11.260] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 06:55:11.260] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[24May2025 06:55:14.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/74094, l='ServerLevel[world]', x=-1601.23, y=59.94, z=944.32] died: krinpa was slain by Ombid
-[24May2025 06:56:33.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Ravager
-[24May2025 06:56:33.962] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
-[24May2025 06:56:40.577] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[24May2025 06:56:40.578] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[24May2025 06:56:46.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 06:57:04.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to Ombid]
-[24May2025 06:57:19.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/74444, l='ServerLevel[world]', x=-1600.57, y=65.00, z=914.50] died: krinpa was slain by krinpa
-[24May2025 06:59:44.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -1599.500000, 67.000000, 910.500000]
-[24May2025 06:59:52.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1027.500000, 101.000000, 1241.500000]
-[24May2025 07:00:02.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 07:01:12.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 07:01:38.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> zzz
-[24May2025 07:02:47.394] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_arise:explorer_maps/monastery (dungeons_arise:monastery) took 0 ms
-[24May2025 07:04:46.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
-[24May2025 07:05:14.698] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element blue_skies:everbright_blinding_dungeon took 0 ms
-[24May2025 07:05:18.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
-[24May2025 07:06:29.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -879.500000, 90.000000, 1056.500000]
-[24May2025 07:06:43.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 07:07:22.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1027.500000, 101.000000, 1241.500000]
-[24May2025 07:07:25.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 07:09:45.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Cover Me with Diamonds]
-[24May2025 07:10:47.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 101.000000, 1241.500000]
-[24May2025 07:10:50.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Gave 64 [Bottle o' Enchanting] to krinpa]
-[24May2025 07:11:00.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set 0 experience points on krinpa]
-[24May2025 07:11:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set 0 experience levels on krinpa]
-[24May2025 07:11:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> :c
-[24May2025 07:11:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set 15 experience levels on krinpa]
-[24May2025 07:11:40.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Diamonds!]
-[24May2025 07:11:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 07:13:40.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 88.000000, -2878.500000]
-[24May2025 07:14:03.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
-[24May2025 07:14:18.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
-[24May2025 07:14:28.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 86.000000, -639.500000]
-[24May2025 07:16:34.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> caca
-[24May2025 07:17:51.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
-[24May2025 07:18:21.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
-[24May2025 07:18:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
-[24May2025 07:18:21.090] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
-[24May2025 07:19:03.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 40.000000, -639.500000]
-[24May2025 07:19:06.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
-[24May2025 07:19:15.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
-[24May2025 07:21:29.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 88.000000, -639.500000]
-[24May2025 07:21:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
-[24May2025 07:46:34.486] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 07:53:08.886] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 07:57:14.337] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 08:27:54.495] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 08:32:06.249] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 08:43:32.797] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 09:04:24.303] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 09:06:08.399] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 09:35:15.252] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 09:40:12.057] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 09:40:59.407] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 09:43:56.859] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 09:52:22.953] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 09:58:46.356] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 10:10:53.107] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
-[24May2025 10:25:26.273] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
-[24May2025 10:26:28.986] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:28.991] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.011] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.011] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.020] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.025] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.029] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.034] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.041] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.042] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.042] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.045] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.047] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.052] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.056] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.068] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.071] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.072] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
-[24May2025 10:26:29.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 1581 entities]
-[24May2025 10:26:32.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
-[24May2025 10:26:32.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
-[24May2025 10:26:32.788] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
-[24May2025 10:27:54.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[24May2025 10:27:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[24May2025 10:27:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[24May2025 10:27:54.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[24May2025 10:27:54.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[24May2025 10:27:54.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[24May2025 10:27:54.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
-[24May2025 10:27:54.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
-[24May2025 10:27:54.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[24May2025 10:27:54.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
-[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
-[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[24May2025 10:27:54.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[24May2025 10:27:54.517] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@3d920edf
+[24May2025 21:30:05.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[24May2025 21:30:05.143] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[24May2025 21:30:05.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.38 Target: null
+[24May2025 21:30:05.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[24May2025 21:30:05.280] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[24May2025 21:30:05.280] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[24May2025 21:30:05.319] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24May2025 21:30:05.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[24May2025 21:30:05.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[24May2025 21:30:05.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[24May2025 21:30:05.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[24May2025 21:30:05.430] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[24May2025 21:30:05.491] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[24May2025 21:30:05.492] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24May2025 21:30:05.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
+[24May2025 21:30:05.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[24May2025 21:30:05.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: OUTDATED Current: 0.5.4.3+mc1.20.1-build.121 Target: 0.5.4.4+mc1.20.1-build.131
+[24May2025 21:30:05.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Starting version check at https://api.modrinth.com/updates/rrls/forge_updates.json
+[24May2025 21:30:05.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rrls] Found status: UP_TO_DATE Current: 4.0.6.1+mc1.20.1-forge Target: null
+[24May2025 21:30:05.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[24May2025 21:30:05.589] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:standard Expected: 1523 Got: 2022
+[24May2025 21:30:05.589] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:netherite Expected: 1524 Got: 2023
+[24May2025 21:30:05.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:diamond Expected: 1525 Got: 2024
+[24May2025 21:30:05.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:gold Expected: 1526 Got: 2025
+[24May2025 21:30:05.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:emerald Expected: 1527 Got: 2026
+[24May2025 21:30:05.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:iron Expected: 1528 Got: 2027
+[24May2025 21:30:05.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:lapis Expected: 1529 Got: 2028
+[24May2025 21:30:05.590] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:redstone Expected: 1530 Got: 2029
+[24May2025 21:30:05.591] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:coal Expected: 1531 Got: 2030
+[24May2025 21:30:05.591] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:quartz Expected: 1532 Got: 2031
+[24May2025 21:30:05.591] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:bookshelf Expected: 1533 Got: 2032
+[24May2025 21:30:05.591] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:end Expected: 1534 Got: 2033
+[24May2025 21:30:05.591] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:nether Expected: 1535 Got: 2034
+[24May2025 21:30:05.591] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:sandstone Expected: 1536 Got: 2035
+[24May2025 21:30:05.592] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:snow Expected: 1537 Got: 2036
+[24May2025 21:30:05.592] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:sponge Expected: 1538 Got: 2037
+[24May2025 21:30:05.592] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cake Expected: 1539 Got: 2038
+[24May2025 21:30:05.592] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cactus Expected: 1540 Got: 2039
+[24May2025 21:30:05.592] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:hay Expected: 1541 Got: 2040
+[24May2025 21:30:05.593] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:melon Expected: 1542 Got: 2041
+[24May2025 21:30:05.594] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:pumpkin Expected: 1543 Got: 2042
+[24May2025 21:30:05.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[24May2025 21:30:05.594] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:creeper Expected: 1544 Got: 2043
+[24May2025 21:30:05.594] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:dragon Expected: 1545 Got: 2044
+[24May2025 21:30:05.594] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:enderman Expected: 1546 Got: 2045
+[24May2025 21:30:05.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24May2025 21:30:05.595] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:blaze Expected: 1547 Got: 2046
+[24May2025 21:30:05.596] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:ghast Expected: 1548 Got: 2047
+[24May2025 21:30:05.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:magma_cube Expected: 1549 Got: 2048
+[24May2025 21:30:05.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:skeleton Expected: 1550 Got: 2049
+[24May2025 21:30:05.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:spider Expected: 1551 Got: 2050
+[24May2025 21:30:05.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:wither Expected: 1552 Got: 2051
+[24May2025 21:30:05.597] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:warden Expected: 1553 Got: 2052
+[24May2025 21:30:05.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:bat Expected: 1554 Got: 2053
+[24May2025 21:30:05.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:bee Expected: 1555 Got: 2054
+[24May2025 21:30:05.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:wolf Expected: 1556 Got: 2055
+[24May2025 21:30:05.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:fox Expected: 1557 Got: 2056
+[24May2025 21:30:05.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:ocelot Expected: 1558 Got: 2057
+[24May2025 21:30:05.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:horse Expected: 1559 Got: 2058
+[24May2025 21:30:05.598] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cow Expected: 1560 Got: 2059
+[24May2025 21:30:05.599] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:pig Expected: 1561 Got: 2060
+[24May2025 21:30:05.599] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:sheep Expected: 1562 Got: 2061
+[24May2025 21:30:05.599] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:chicken Expected: 1563 Got: 2062
+[24May2025 21:30:05.599] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:squid Expected: 1564 Got: 2063
+[24May2025 21:30:05.600] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:villager Expected: 1565 Got: 2064
+[24May2025 21:30:05.600] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:iron_golem Expected: 1566 Got: 2065
+[24May2025 21:30:05.601] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:white_sleeping_bag Expected: 1567 Got: 2066
+[24May2025 21:30:05.601] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:orange_sleeping_bag Expected: 1568 Got: 2067
+[24May2025 21:30:05.601] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:magenta_sleeping_bag Expected: 1569 Got: 2068
+[24May2025 21:30:05.602] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:light_blue_sleeping_bag Expected: 1570 Got: 2069
+[24May2025 21:30:05.602] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:yellow_sleeping_bag Expected: 1571 Got: 2070
+[24May2025 21:30:05.602] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:lime_sleeping_bag Expected: 1572 Got: 2071
+[24May2025 21:30:05.603] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:pink_sleeping_bag Expected: 1573 Got: 2072
+[24May2025 21:30:05.603] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:gray_sleeping_bag Expected: 1574 Got: 2073
+[24May2025 21:30:05.603] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:light_gray_sleeping_bag Expected: 1575 Got: 2074
+[24May2025 21:30:05.604] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:cyan_sleeping_bag Expected: 1576 Got: 2075
+[24May2025 21:30:05.604] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:purple_sleeping_bag Expected: 1577 Got: 2076
+[24May2025 21:30:05.604] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:blue_sleeping_bag Expected: 1578 Got: 2077
+[24May2025 21:30:05.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:brown_sleeping_bag Expected: 1579 Got: 2078
+[24May2025 21:30:05.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:green_sleeping_bag Expected: 1580 Got: 2079
+[24May2025 21:30:05.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:red_sleeping_bag Expected: 1581 Got: 2080
+[24May2025 21:30:05.605] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: travelersbackpack:black_sleeping_bag Expected: 1582 Got: 2081
+[24May2025 21:30:05.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:standard Expected: 2009 Got: 2849
+[24May2025 21:30:05.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:netherite Expected: 2010 Got: 2864
+[24May2025 21:30:05.607] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:diamond Expected: 2011 Got: 2865
+[24May2025 21:30:05.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:gold Expected: 2012 Got: 2866
+[24May2025 21:30:05.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:emerald Expected: 2013 Got: 2867
+[24May2025 21:30:05.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:iron Expected: 2014 Got: 2868
+[24May2025 21:30:05.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:lapis Expected: 2015 Got: 2869
+[24May2025 21:30:05.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:redstone Expected: 2016 Got: 2870
+[24May2025 21:30:05.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:coal Expected: 2017 Got: 2871
+[24May2025 21:30:05.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:quartz Expected: 2018 Got: 2872
+[24May2025 21:30:05.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:bookshelf Expected: 2019 Got: 2873
+[24May2025 21:30:05.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:end Expected: 2020 Got: 2874
+[24May2025 21:30:05.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:nether Expected: 2021 Got: 2875
+[24May2025 21:30:05.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:sandstone Expected: 2022 Got: 2876
+[24May2025 21:30:05.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:snow Expected: 2023 Got: 2877
+[24May2025 21:30:05.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:sponge Expected: 2024 Got: 2878
+[24May2025 21:30:05.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cake Expected: 2025 Got: 2879
+[24May2025 21:30:05.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cactus Expected: 2026 Got: 2880
+[24May2025 21:30:05.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:hay Expected: 2027 Got: 2881
+[24May2025 21:30:05.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:melon Expected: 2028 Got: 2882
+[24May2025 21:30:05.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:pumpkin Expected: 2029 Got: 2883
+[24May2025 21:30:05.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:creeper Expected: 2030 Got: 2884
+[24May2025 21:30:05.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:dragon Expected: 2031 Got: 2885
+[24May2025 21:30:05.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:enderman Expected: 2032 Got: 2886
+[24May2025 21:30:05.611] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:blaze Expected: 2033 Got: 2887
+[24May2025 21:30:05.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:ghast Expected: 2034 Got: 2888
+[24May2025 21:30:05.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:magma_cube Expected: 2035 Got: 2889
+[24May2025 21:30:05.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:skeleton Expected: 2036 Got: 2890
+[24May2025 21:30:05.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:spider Expected: 2037 Got: 2891
+[24May2025 21:30:05.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:wither Expected: 2038 Got: 2892
+[24May2025 21:30:05.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:warden Expected: 2039 Got: 2893
+[24May2025 21:30:05.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:bat Expected: 2040 Got: 2894
+[24May2025 21:30:05.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:bee Expected: 2041 Got: 2895
+[24May2025 21:30:05.614] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:wolf Expected: 2042 Got: 2896
+[24May2025 21:30:05.614] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:fox Expected: 2043 Got: 2897
+[24May2025 21:30:05.615] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:ocelot Expected: 2044 Got: 2898
+[24May2025 21:30:05.615] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:horse Expected: 2045 Got: 2899
+[24May2025 21:30:05.615] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cow Expected: 2046 Got: 2900
+[24May2025 21:30:05.616] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:pig Expected: 2047 Got: 2901
+[24May2025 21:30:05.616] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:sheep Expected: 2048 Got: 2902
+[24May2025 21:30:05.616] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:chicken Expected: 2049 Got: 2903
+[24May2025 21:30:05.616] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:squid Expected: 2050 Got: 2904
+[24May2025 21:30:05.616] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:villager Expected: 2051 Got: 2905
+[24May2025 21:30:05.617] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:iron_golem Expected: 2052 Got: 2906
+[24May2025 21:30:05.617] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:white_sleeping_bag Expected: 2053 Got: 2907
+[24May2025 21:30:05.618] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:orange_sleeping_bag Expected: 2054 Got: 2908
+[24May2025 21:30:05.620] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:magenta_sleeping_bag Expected: 2055 Got: 2909
+[24May2025 21:30:05.621] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:light_blue_sleeping_bag Expected: 2056 Got: 2910
+[24May2025 21:30:05.621] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:yellow_sleeping_bag Expected: 2057 Got: 2911
+[24May2025 21:30:05.621] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:lime_sleeping_bag Expected: 2058 Got: 2912
+[24May2025 21:30:05.621] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:pink_sleeping_bag Expected: 2059 Got: 2913
+[24May2025 21:30:05.621] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:gray_sleeping_bag Expected: 2060 Got: 2914
+[24May2025 21:30:05.621] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:light_gray_sleeping_bag Expected: 2061 Got: 2915
+[24May2025 21:30:05.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:cyan_sleeping_bag Expected: 2062 Got: 2916
+[24May2025 21:30:05.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:purple_sleeping_bag Expected: 2063 Got: 2917
+[24May2025 21:30:05.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:blue_sleeping_bag Expected: 2064 Got: 2918
+[24May2025 21:30:05.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:brown_sleeping_bag Expected: 2065 Got: 2919
+[24May2025 21:30:05.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:green_sleeping_bag Expected: 2066 Got: 2920
+[24May2025 21:30:05.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:red_sleeping_bag Expected: 2067 Got: 2921
+[24May2025 21:30:05.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:black_sleeping_bag Expected: 2068 Got: 2922
+[24May2025 21:30:05.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:backpack_tank Expected: 2069 Got: 2923
+[24May2025 21:30:05.622] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:hose Expected: 2070 Got: 2924
+[24May2025 21:30:05.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:hose_nozzle Expected: 2071 Got: 2925
+[24May2025 21:30:05.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:blank_upgrade Expected: 2072 Got: 2926
+[24May2025 21:30:05.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:iron_tier_upgrade Expected: 2073 Got: 2927
+[24May2025 21:30:05.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:gold_tier_upgrade Expected: 2074 Got: 2928
+[24May2025 21:30:05.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:diamond_tier_upgrade Expected: 2075 Got: 2929
+[24May2025 21:30:05.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:netherite_tier_upgrade Expected: 2076 Got: 2930
+[24May2025 21:30:05.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:tanks_upgrade Expected: 2077 Got: 2931
+[24May2025 21:30:05.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:crafting_upgrade Expected: 2078 Got: 2932
+[24May2025 21:30:05.623] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:furnace_upgrade Expected: 2079 Got: 2933
+[24May2025 21:30:05.624] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:smoker_upgrade Expected: 2080 Got: 2934
+[24May2025 21:30:05.624] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:blast_furnace_upgrade Expected: 2081 Got: 2935
+[24May2025 21:30:05.627] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:pickup_upgrade Expected: 2082 Got: 2936
+[24May2025 21:30:05.627] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:magnet_upgrade Expected: 2083 Got: 2937
+[24May2025 21:30:05.627] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:jukebox_upgrade Expected: 2084 Got: 2938
+[24May2025 21:30:05.627] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:void_upgrade Expected: 2085 Got: 2939
+[24May2025 21:30:05.627] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: travelersbackpack:feeding_upgrade Expected: 2086 Got: 2940
+[24May2025 21:30:05.628] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: travelersbackpack:backpack Expected: 178 Got: 274
+[24May2025 21:30:05.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[24May2025 21:30:05.779] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[24May2025 21:30:05.780] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/idk-why/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23207!/assets/.mcassetsroot' uses unexpected schema
+[24May2025 21:30:05.780] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/idk-why/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23207!/data/.mcassetsroot' uses unexpected schema
+[24May2025 21:30:05.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[24May2025 21:30:07.353] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
+[24May2025 21:30:08.233] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[24May2025 21:30:08.272] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[24May2025 21:30:08.279] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[24May2025 21:30:08.280] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[24May2025 21:30:08.282] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[24May2025 21:30:08.284] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[24May2025 21:30:08.289] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[24May2025 21:30:08.290] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[24May2025 21:30:08.292] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[24May2025 21:30:08.410] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2703 advancements
+[24May2025 21:30:08.414] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[24May2025 21:30:08.415] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[24May2025 21:30:08.415] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[24May2025 21:30:08.415] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[24May2025 21:30:08.429] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[24May2025 21:30:08.431] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[24May2025 21:30:08.431] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[24May2025 21:30:08.431] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[24May2025 21:30:08.432] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[24May2025 21:30:08.634] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 10 milliseconds
+[24May2025 21:30:08.636] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
+[24May2025 21:30:08.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24May2025 21:30:08.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24May2025 21:30:08.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24May2025 21:30:08.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24May2025 21:30:08.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24May2025 21:30:08.752] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24May2025 21:30:08.840] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24May2025 21:30:08.840] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24May2025 21:30:08.841] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24May2025 21:30:08.841] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24May2025 21:30:08.862] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/travelersbackpack-server.toml is not correct. Correcting
+[24May2025 21:30:08.863] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.863] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.863] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.leatherTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.863] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.leatherTierBackpack.inventorySlotCount was corrected from null to its default, 27. 
+[24May2025 21:30:08.864] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.leatherTierBackpack.upgradeSlotCount was corrected from null to its default, 2. 
+[24May2025 21:30:08.864] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.leatherTierBackpack.toolSlotCount was corrected from null to its default, 2. 
+[24May2025 21:30:08.864] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.leatherTierBackpack.tankCapacity was corrected from null to its default, 1000. 
+[24May2025 21:30:08.865] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.ironTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.865] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.ironTierBackpack.inventorySlotCount was corrected from null to its default, 45. 
+[24May2025 21:30:08.866] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.ironTierBackpack.upgradeSlotCount was corrected from null to its default, 3. 
+[24May2025 21:30:08.866] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.ironTierBackpack.toolSlotCount was corrected from null to its default, 3. 
+[24May2025 21:30:08.866] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.ironTierBackpack.tankCapacity was corrected from null to its default, 1000. 
+[24May2025 21:30:08.867] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.goldTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.867] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.goldTierBackpack.inventorySlotCount was corrected from null to its default, 63. 
+[24May2025 21:30:08.867] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.goldTierBackpack.upgradeSlotCount was corrected from null to its default, 4. 
+[24May2025 21:30:08.868] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.goldTierBackpack.toolSlotCount was corrected from null to its default, 4. 
+[24May2025 21:30:08.868] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.goldTierBackpack.tankCapacity was corrected from null to its default, 1000. 
+[24May2025 21:30:08.868] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.diamondTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.869] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.diamondTierBackpack.inventorySlotCount was corrected from null to its default, 81. 
+[24May2025 21:30:08.869] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.diamondTierBackpack.upgradeSlotCount was corrected from null to its default, 5. 
+[24May2025 21:30:08.869] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.diamondTierBackpack.toolSlotCount was corrected from null to its default, 5. 
+[24May2025 21:30:08.869] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.diamondTierBackpack.tankCapacity was corrected from null to its default, 1000. 
+[24May2025 21:30:08.870] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.netheriteTierBackpack was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.870] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.netheriteTierBackpack.inventorySlotCount was corrected from null to its default, 99. 
+[24May2025 21:30:08.870] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.netheriteTierBackpack.upgradeSlotCount was corrected from null to its default, 6. 
+[24May2025 21:30:08.871] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.netheriteTierBackpack.toolSlotCount was corrected from null to its default, 6. 
+[24May2025 21:30:08.871] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.netheriteTierBackpack.tankCapacity was corrected from null to its default, 1000. 
+[24May2025 21:30:08.871] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.rightClickEquip was corrected from null to its default, true. 
+[24May2025 21:30:08.871] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.rightClickUnequip was corrected from null to its default, false. 
+[24May2025 21:30:08.872] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.allowOnlyEquippedBackpack was corrected from null to its default, false. 
+[24May2025 21:30:08.872] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.allowOpeningFromSlot was corrected from null to its default, false. 
+[24May2025 21:30:08.872] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.invulnerableBackpack was corrected from null to its default, true. 
+[24May2025 21:30:08.873] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.toolSlotsAcceptEverything was corrected from null to its default, false. 
+[24May2025 21:30:08.873] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.toolSlotsAcceptableItems was corrected from null to its default, []. 
+[24May2025 21:30:08.874] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.blacklistedItems was corrected from null to its default, []. 
+[24May2025 21:30:08.874] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.allowShulkerBoxes was corrected from null to its default, false. 
+[24May2025 21:30:08.874] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.voidProtection was corrected from null to its default, true. 
+[24May2025 21:30:08.874] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.backpackDeathPlace was corrected from null to its default, true. 
+[24May2025 21:30:08.875] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.backpackForceDeathPlace was corrected from null to its default, false. 
+[24May2025 21:30:08.875] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.quickSleepingBag was corrected from null to its default, true. 
+[24May2025 21:30:08.875] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.enableSleepingBagSpawnPoint was corrected from null to its default, false. 
+[24May2025 21:30:08.876] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackSettings.backSlotIntegration was corrected from null to its default, true. 
+[24May2025 21:30:08.876] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.876] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.enableTanksUpgrade was corrected from null to its default, true. 
+[24May2025 21:30:08.876] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.enableCraftingUpgrade was corrected from null to its default, true. 
+[24May2025 21:30:08.877] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.enableFurnaceUpgrade was corrected from null to its default, true. 
+[24May2025 21:30:08.877] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.enableSmokerUpgrade was corrected from null to its default, true. 
+[24May2025 21:30:08.877] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.enableBlastFurnaceUpgrade was corrected from null to its default, true. 
+[24May2025 21:30:08.877] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.pickupUpgradeSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.878] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.pickupUpgradeSettings.enablePickupUpgrade was corrected from null to its default, true. 
+[24May2025 21:30:08.878] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.pickupUpgradeSettings.filterSlotCount was corrected from null to its default, 9. 
+[24May2025 21:30:08.878] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.enableJukeboxUpgrade was corrected from null to its default, true. 
+[24May2025 21:30:08.878] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.magnetUpgradeSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.879] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.magnetUpgradeSettings.enableMagnetUpgrade was corrected from null to its default, true. 
+[24May2025 21:30:08.879] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.magnetUpgradeSettings.filterSlotCount was corrected from null to its default, 9. 
+[24May2025 21:30:08.879] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.magnetUpgradeSettings.pullRange was corrected from null to its default, 5. 
+[24May2025 21:30:08.880] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.magnetUpgradeSettings.tickRate was corrected from null to its default, 10. 
+[24May2025 21:30:08.880] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.feedingUpgradeSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.880] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.feedingUpgradeSettings.enableFeedingUpgrade was corrected from null to its default, true. 
+[24May2025 21:30:08.880] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.feedingUpgradeSettings.filterSlotCount was corrected from null to its default, 9. 
+[24May2025 21:30:08.881] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.feedingUpgradeSettings.tickRate was corrected from null to its default, 100. 
+[24May2025 21:30:08.881] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.voidUpgradeSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.881] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.voidUpgradeSettings.enableVoidUpgrade was corrected from null to its default, true. 
+[24May2025 21:30:08.882] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackUpgrades.voidUpgradeSettings.filterSlotCount was corrected from null to its default, 9. 
+[24May2025 21:30:08.882] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.882] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world.spawnEntitiesWithBackpack was corrected from null to its default, true. 
+[24May2025 21:30:08.882] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world.chance was corrected from null to its default, 0.005. 
+[24May2025 21:30:08.883] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world.possibleOverworldEntityTypes was corrected from null to its default, [minecraft:zombie, minecraft:skeleton, minecraft:enderman]. 
+[24May2025 21:30:08.883] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world.possibleNetherEntityTypes was corrected from null to its default, [minecraft:wither_skeleton, minecraft:piglin]. 
+[24May2025 21:30:08.884] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world.overworldBackpacks was corrected from null to its default, [travelersbackpack:standard, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:coal, travelersbackpack:bookshelf, travelersbackpack:sandstone, travelersbackpack:snow, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:hay, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:enderman, travelersbackpack:skeleton, travelersbackpack:spider, travelersbackpack:bee, travelersbackpack:wolf, travelersbackpack:fox, travelersbackpack:ocelot, travelersbackpack:horse, travelersbackpack:cow, travelersbackpack:pig, travelersbackpack:sheep, travelersbackpack:chicken, travelersbackpack:squid]. 
+[24May2025 21:30:08.884] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.world.netherBackpacks was corrected from null to its default, [travelersbackpack:quartz, travelersbackpack:nether, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:wither]. 
+[24May2025 21:30:08.884] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackAbilities was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.885] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackAbilities.enableBackpackAbilities was corrected from null to its default, true. 
+[24May2025 21:30:08.885] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackAbilities.forceAbilityEnabled was corrected from null to its default, true. 
+[24May2025 21:30:08.885] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackAbilities.allowedAbilities was corrected from null to its default, [travelersbackpack:netherite, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:bookshelf, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:dragon, travelersbackpack:enderman, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:spider, travelersbackpack:wither, travelersbackpack:warden, travelersbackpack:bat, travelersbackpack:bee, travelersbackpack:ocelot, travelersbackpack:cow, travelersbackpack:chicken, travelersbackpack:squid, travelersbackpack:hay, travelersbackpack:fox]. 
+[24May2025 21:30:08.886] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackAbilities.backpackEffects was corrected from null to its default, [travelersbackpack:bat, minecraft:night_vision, 260, 300, 0, travelersbackpack:magma_cube, minecraft:fire_resistance, 260, 300, 0, travelersbackpack:squid, minecraft:water_breathing, 260, 300, 0, travelersbackpack:dragon, minecraft:regeneration, 260, 300, 0, travelersbackpack:dragon, minecraft:strength, 250, 290, 0, travelersbackpack:quartz, minecraft:haste, 260, 300, 0, travelersbackpack:fox, minecraft:jump_boost, 260, 300, 0]. 
+[24May2025 21:30:08.886] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.backpackAbilities.cooldowns was corrected from null to its default, [travelersbackpack:creeper, 1200, 1800, travelersbackpack:cow, 480, 540, travelersbackpack:chicken, 360, 600, travelersbackpack:cake, 360, 480, travelersbackpack:melon, 120, 480]. 
+[24May2025 21:30:08.886] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.slownessDebuff was corrected from null to its default, SimpleCommentedConfig:{}. 
+[24May2025 21:30:08.887] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.slownessDebuff.tooManyBackpacksSlowness was corrected from null to its default, false. 
+[24May2025 21:30:08.887] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.slownessDebuff.maxNumberOfBackpacks was corrected from null to its default, 3. 
+[24May2025 21:30:08.887] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.slownessDebuff.slownessPerExcessedBackpack was corrected from null to its default, 1.0. 
+[24May2025 21:30:08.900] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/shw-server.toml is not correct. Correcting
+[24May2025 21:30:08.900] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key shw_is_dimensional_travel_allowed_for_home was corrected from null to its default, true. 
+[24May2025 21:30:08.901] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key shw_home_cooldown was corrected from null to its default, 10. 
+[24May2025 21:30:08.902] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key shw_is_dimensional_travel_allowed_for_waypoints was corrected from null to its default, true. 
+[24May2025 21:30:08.904] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key shw_waypoints_cooldown was corrected from null to its default, 10. 
+[24May2025 21:30:08.906] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key shw_maximum_number_of_waypoints was corrected from null to its default, 10. 
+[24May2025 21:30:08.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24May2025 21:30:09.051] [Server thread/WARN] [mixin/]: @Redirect conflict. Skipping servercore.common.mixins.json:optimizations.ticking.chunk.cache.ServerChunkCacheMixin->@Redirect::servercore$noList(I)Ljava/util/ArrayList; with priority 900, already redirected by lithium.mixins.json:alloc.chunk_ticking.ServerChunkManagerMixin->@Redirect::redirectChunksListClone(I)Ljava/util/ArrayList; with priority 1000
+[24May2025 21:30:09.482] [Netty Epoll Server IO #1/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[24May2025 21:30:09.586] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[24May2025 21:30:09.590] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[24May2025 21:30:09.592] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[24May2025 21:30:09.594] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[24May2025 21:30:10.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24May2025 21:30:11.573] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 21:30:11.619] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 21:30:11.642] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 21:30:11.676] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24May2025 21:30:12.338] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2162 ms
+[24May2025 21:30:12.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.479s)! For help, type "help"
+[24May2025 21:30:12.373] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24May2025 21:30:12.438] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 142025 bytes (in 15 string chunks with the size of 10000)
+[24May2025 21:30:12.452] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: farsight.json
+[24May2025 21:30:12.453] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: clickadv.json
+[24May2025 21:30:12.453] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+[24May2025 21:30:12.454] [Server thread/WARN] [ModernFix/]: Dedicated server took 26.732 seconds to load
+[24May2025 21:30:12.456] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
+[24May2025 21:31:06.962] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[24May2025 21:31:06.983] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[24May2025 21:31:06.985] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[24May2025 21:31:06.986] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[24May2025 21:31:06.988] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[24May2025 21:31:07.007] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[24May2025 21:31:07.021] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[24May2025 21:31:07.026] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[24May2025 21:31:07.042] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[24May2025 21:31:07.042] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[24May2025 21:31:07.050] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[24May2025 21:31:07.052] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[24May2025 21:31:08.152] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[24May2025 21:31:08.152] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[24May2025 21:31:08.169] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[24May2025 21:31:08.175] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[24May2025 21:31:11.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:60382] logged in with entity id 469 at (-880.8664212611436, 40.0, -2878.6843006776144)
+[24May2025 21:31:11.354] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
+[24May2025 21:31:11.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
+[24May2025 21:31:11.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
+[24May2025 21:31:11.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
+[24May2025 21:31:11.363] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
+[24May2025 21:31:11.368] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
+[24May2025 21:31:11.369] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
+[24May2025 21:31:11.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[24May2025 21:31:11.513] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[24May2025 21:31:11.518] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[24May2025 21:31:11.615] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[24May2025 21:32:00.492] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[24May2025 21:33:19.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Config for shw of type CLIENT not found]
+[24May2025 21:34:50.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
+[24May2025 21:35:03.213] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #blue_skies:on_blinding_maps (blue_skies:everbright_blinding_dungeon) took 7 ms
+[24May2025 21:35:14.633] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #blue_skies:on_blinding_maps (blue_skies:everbright_blinding_dungeon) took 7 ms
+[24May2025 21:35:16.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 82.000000, -639.500000]
+[24May2025 21:39:27.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1099.500000, 101.000000, -1199.500000]
+[24May2025 21:39:34.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[24May2025 21:39:36.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[24May2025 21:40:12.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 21:40:41.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[24May2025 21:43:56.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1099.500000, 101.000000, 1200.500000]
+[24May2025 21:44:16.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[24May2025 21:44:18.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 21:49:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Gave 1 [Amethyst Shield] to Ombid]
+[24May2025 21:49:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Zombie]
