@@ -627,3 +627,17 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 07:11:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set 15 experience levels on krinpa]
 [24May2025 07:11:40.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Diamonds!]
 [24May2025 07:11:54.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 07:13:40.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 88.000000, -2878.500000]
+[24May2025 07:14:03.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 07:14:18.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to 0.500000, 90.000000, 0.500000]
+[24May2025 07:14:28.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 86.000000, -639.500000]
+[24May2025 07:16:34.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> caca
+[24May2025 07:17:51.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[24May2025 07:18:21.089] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: krinpa lost connection: Disconnected
+[24May2025 07:18:21.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa left the game
+[24May2025 07:18:21.090] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player krinpa[463284d9-6e0e-306d-9730-ebe3431451dd]
+[24May2025 07:19:03.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 40.000000, -639.500000]
+[24May2025 07:19:06.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Spectator Mode]
+[24May2025 07:19:15.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 07:21:29.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 88.000000, -639.500000]
+[24May2025 07:21:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
