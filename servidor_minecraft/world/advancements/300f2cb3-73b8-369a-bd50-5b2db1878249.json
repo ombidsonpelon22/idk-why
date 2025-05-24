@@ -2262,6 +2262,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2025-05-24 04:22:42 +0000",
       "minecraft:basalt_deltas": "2025-05-16 00:22:26 +0000"
     },
     "done": false
@@ -4105,6 +4106,12 @@
   "blue_skies:recipes/misc/falsite_ingot_from_nuggets": {
     "criteria": {
       "has_item": "2025-05-19 03:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-24 04:22:42 +0000"
     },
     "done": true
   },

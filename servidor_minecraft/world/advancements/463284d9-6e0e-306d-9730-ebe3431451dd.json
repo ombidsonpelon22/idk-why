@@ -2863,9 +2863,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "has_gold_block": "2025-05-19 03:32:06 +0000"
+      "bastion": "2025-05-19 03:23:43 +0000"
     },
     "done": true
   },
@@ -2881,21 +2881,21 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_hoglin_stable": "2025-05-19 03:31:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-05-19 03:25:49 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "bastion": "2025-05-19 03:23:43 +0000"
+      "loot_bastion_hoglin_stable": "2025-05-19 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-19 03:32:06 +0000"
     },
     "done": true
   },
