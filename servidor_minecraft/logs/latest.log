@@ -456,3 +456,9 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 05:36:31.627] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
 [24May2025 05:36:31.731] [ForkJoinPool-4-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
 [24May2025 05:39:48.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[24May2025 05:42:26.863] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[24May2025 05:42:26.864] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[24May2025 05:42:26.865] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[24May2025 05:47:35.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[24May2025 05:48:01.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Funeral Theft]
+[24May2025 05:51:04.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]

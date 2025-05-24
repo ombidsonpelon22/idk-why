@@ -4855,3 +4855,35 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 05:40:47.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_1
 [24May2025 05:40:47.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_2
 [24May2025 05:40:47.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_3
+[24May2025 05:41:34.330] [Worker-Main-62/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[24May2025 05:42:26.863] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[24May2025 05:42:26.864] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[24May2025 05:42:26.865] [Worker-Main-89/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[24May2025 05:43:41.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[24May2025 05:43:41.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_evoker_0
+[24May2025 05:43:41.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_vindicator_0
+[24May2025 05:43:41.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_0
+[24May2025 05:43:41.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_1
+[24May2025 05:43:41.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_illusioner_0
+[24May2025 05:43:41.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_pillager_0
+[24May2025 05:43:41.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[24May2025 05:43:41.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_6
+[24May2025 05:43:41.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_4
+[24May2025 05:43:41.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_8
+[24May2025 05:43:41.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_4
+[24May2025 05:43:41.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[24May2025 05:43:41.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_2
+[24May2025 05:43:41.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_3
+[24May2025 05:43:41.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[24May2025 05:43:41.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_5
+[24May2025 05:43:41.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_7
+[24May2025 05:43:41.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_6
+[24May2025 05:43:41.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_7
+[24May2025 05:44:43.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 05:44:43.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 05:46:56.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[24May2025 05:47:35.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[24May2025 05:48:01.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Funeral Theft]
+[24May2025 05:49:43.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 05:49:43.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 05:51:04.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
