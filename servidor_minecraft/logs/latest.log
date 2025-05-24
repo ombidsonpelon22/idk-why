@@ -501,3 +501,4 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 22:15:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
 [24May2025 22:16:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
 [24May2025 22:16:59.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 22:21:50.711] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
