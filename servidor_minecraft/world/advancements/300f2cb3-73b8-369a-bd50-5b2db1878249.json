@@ -4165,6 +4165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-24 06:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-05-24 06:09:14 +0000"
@@ -4207,6 +4213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-24 06:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-05-24 06:01:50 +0000"
@@ -4218,6 +4230,12 @@
       "minecraft:wolf": "2025-05-24 05:53:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-24 06:36:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
