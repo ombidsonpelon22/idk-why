@@ -5192,3 +5192,7 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 09:06:08.399] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
 [24May2025 09:09:43.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24May2025 09:09:43.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 09:14:43.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 09:14:43.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 09:19:43.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 09:19:43.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
