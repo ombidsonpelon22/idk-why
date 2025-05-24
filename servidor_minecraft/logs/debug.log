@@ -4462,3 +4462,25 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 05:19:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
 [24May2025 05:20:14.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25692, l='ServerLevel[world]', x=-1045.54, y=85.00, z=-1248.44] died, message: 'Villager was slain by Zombie'
 [24May2025 05:20:18.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25670, l='ServerLevel[world]', x=-1051.50, y=82.94, z=-1248.39] died, message: 'Villager was slain by Zombie'
+[24May2025 05:20:38.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25753, l='ServerLevel[world]', x=-1074.42, y=88.00, z=-1246.60] died, message: 'Villager was slain by Zombie'
+[24May2025 05:21:10.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -880.500000, 47.000000, -2877.500000]
+[24May2025 05:22:10.407] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit was killed by Ombid
+[24May2025 05:22:56.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 7 entities]
+[24May2025 05:24:43.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 05:24:43.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 05:26:23.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/25668, l='ServerLevel[world]', x=-1085.48, y=89.00, z=-1254.46] died, message: 'Farmer was slain by krinpa'
+[24May2025 05:26:23.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa has made the advancement [Neighborhood Brawl]
+[24May2025 05:26:58.567] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/25672, l='ServerLevel[world]', x=-1101.85, y=87.00, z=-1245.19] died, message: 'Nitwit was slain by krinpa'
+[24May2025 05:27:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> aligment decreased
+[24May2025 05:27:14.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> :,V
+[24May2025 05:27:44.754] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[24May2025 05:27:44.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 05:28:56.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 40.000000, -2878.500000]
+[24May2025 05:29:06.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 101.000000, -2878.500000]
+[24May2025 05:29:18.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 101.000000, -1240.500000]
+[24May2025 05:29:35.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported krinpa to -1027.500000, 101.000000, 1241.500000]
+[24May2025 05:29:40.956] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 05:29:40.956] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 05:29:43.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 05:29:43.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 05:30:25.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]

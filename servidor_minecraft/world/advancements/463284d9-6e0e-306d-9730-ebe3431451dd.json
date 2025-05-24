@@ -409,6 +409,7 @@
       "golden_apple": "2025-05-16 00:47:15 +0000",
       "bread": "2025-05-16 06:56:37 +0000",
       "rotten_flesh": "2025-05-15 06:21:33 +0000",
+      "suspicious_stew": "2025-05-24 05:26:18 +0000",
       "cooked_chicken": "2025-05-17 04:45:54 +0000",
       "carrot": "2025-05-15 05:58:43 +0000"
     },
@@ -830,7 +831,8 @@
       "minecraft:husk": "2025-05-16 01:05:55 +0000",
       "minecraft:piglin": "2025-05-19 03:24:08 +0000",
       "minecraft:vex": "2025-05-15 23:38:49 +0000",
-      "minecraft:zombie": "2025-05-15 06:29:28 +0000"
+      "minecraft:zombie": "2025-05-15 06:29:28 +0000",
+      "minecraft:zombie_villager": "2025-05-24 05:21:02 +0000"
     },
     "done": false
   },
@@ -2922,6 +2924,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-24 04:47:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 05:26:23 +0000"
     },
     "done": true
   },
