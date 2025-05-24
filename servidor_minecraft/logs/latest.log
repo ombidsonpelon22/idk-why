@@ -493,3 +493,11 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 21:49:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Gave 1 [Amethyst Shield] to Ombid]
 [24May2025 21:49:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Summoned new Zombie]
 [24May2025 21:49:54.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 82.000000, -639.500000]
+[24May2025 22:13:42.486] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 22:13:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 140 entities]
+[24May2025 22:13:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[24May2025 22:14:55.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 22:15:07.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[24May2025 22:15:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 22:16:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[24May2025 22:16:59.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]

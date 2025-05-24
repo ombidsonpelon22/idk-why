@@ -4698,3 +4698,17 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 22:05:12.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24May2025 22:10:12.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24May2025 22:10:12.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 22:13:42.486] [Server thread/INFO] [Scaling Health/]: Blight Frost Spirit has died
+[24May2025 22:13:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Killed 140 entities]
+[24May2025 22:13:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[24May2025 22:14:55.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 22:15:07.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[24May2025 22:15:12.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 22:15:12.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24May2025 22:15:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 22:16:17.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
+[24May2025 22:16:59.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Survival Mode]
+[24May2025 22:17:35.043] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / blue_skies:everbright] to ResourceKey[minecraft:dimension / minecraft:overworld]
+[24May2025 22:17:47.109] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Not storing return portal because it's from ResourceKey[minecraft:dimension / minecraft:overworld] to ResourceKey[minecraft:dimension / blue_skies:everbright]
+[24May2025 22:20:12.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24May2025 22:20:12.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
