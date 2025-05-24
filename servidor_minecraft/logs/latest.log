@@ -396,3 +396,15 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 05:07:55.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -940.500000, 59.000000, 1063.500000]
 [24May2025 05:08:05.250] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by krinpa
 [24May2025 05:08:17.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1295.500000, 87.000000, 1136.500000]
+[24May2025 05:13:50.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
+[24May2025 05:16:29.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -1099.500000, 150.000000, -1199.500000]
+[24May2025 05:16:29.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3283ms or 65 ticks behind
+[24May2025 05:16:29.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid moved too quickly! 6.8402560727074615,5.086094079315515,-5.380729280569881
+[24May2025 05:16:43.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25683, l='ServerLevel[world]', x=-1047.28, y=79.00, z=-1204.37] died, message: 'Villager suffocated in a wall'
+[24May2025 05:16:51.824] [Worker-Main-89/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24May2025 05:17:00.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25682, l='ServerLevel[world]', x=-1044.40, y=78.00, z=-1203.55] died, message: 'Villager was slain by Zombie'
+[24May2025 05:18:15.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -880.500000, 47.000000, -2877.500000]
+[24May2025 05:18:49.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25695, l='ServerLevel[world]', x=-1087.50, y=80.00, z=-1279.50] died, message: 'Villager bled to death'
+[24May2025 05:19:48.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -1407.500000, 89.000000, -639.500000]
+[24May2025 05:20:14.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25692, l='ServerLevel[world]', x=-1045.54, y=85.00, z=-1248.44] died, message: 'Villager was slain by Zombie'
+[24May2025 05:20:18.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25670, l='ServerLevel[world]', x=-1051.50, y=82.94, z=-1248.39] died, message: 'Villager was slain by Zombie'
