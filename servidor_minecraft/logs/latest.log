@@ -643,3 +643,4 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 07:21:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to -881.500000, 47.000000, -2878.500000]
 [24May2025 07:46:34.486] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
 [24May2025 07:53:08.886] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
+[24May2025 07:57:14.337] [Server thread/INFO] [Scaling Health/]: Blight Armored Frost Spirit has died
