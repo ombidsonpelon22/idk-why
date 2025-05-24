@@ -561,3 +561,27 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [24May2025 06:32:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
 [24May2025 06:41:38.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to -1599.500000, 67.000000, 910.500000]
 [24May2025 06:42:02.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[24May2025 06:44:17.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was shot by Pillager
+[24May2025 06:44:17.758] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 06:44:24.409] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 06:44:24.409] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 06:44:38.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/70711, l='ServerLevel[world]', x=-1655.47, y=67.00, z=924.38] died: krinpa was slain by Ombid
+[24May2025 06:46:08.939] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/69526, l='ServerLevel[world]', x=-1615.95, y=64.00, z=919.33] died, message: 'Fletcher was slain by Zombie'
+[24May2025 06:46:23.489] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/69559, l='ServerLevel[world]', x=-1630.53, y=64.94, z=906.51] died, message: 'Farmer was slain by Vindicator'
+[24May2025 06:46:35.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/69504, l='ServerLevel[world]', x=-1612.47, y=66.24, z=913.49] died, message: 'Farmer bled to death'
+[24May2025 06:46:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Vex
+[24May2025 06:46:40.757] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 06:46:47.263] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 06:46:47.264] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[24May2025 06:46:52.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 06:47:08.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/71586, l='ServerLevel[world]', x=-1669.08, y=66.00, z=899.92] died: krinpa was slain by Ombid
+[24May2025 06:47:31.738] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/69503, l='ServerLevel[world]', x=-1597.43, y=65.00, z=911.31] died, message: 'Mason was slain by Vindicator'
+[24May2025 06:47:37.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: krinpa was slain by Spider
+[24May2025 06:47:37.659] [Server thread/INFO] [tombstone/]: The player krinpa has successfully been saved
+[24May2025 06:47:44.290] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24May2025 06:47:44.290] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24May2025 06:47:52.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['krinpa'/72013, l='ServerLevel[world]', x=-1633.78, y=62.25, z=888.17] died: krinpa was slain by Ombid
+[24May2025 06:48:10.056] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Ombid
+[24May2025 06:49:52.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[24May2025 06:50:06.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[24May2025 06:51:59.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Set own game mode to Creative Mode]
