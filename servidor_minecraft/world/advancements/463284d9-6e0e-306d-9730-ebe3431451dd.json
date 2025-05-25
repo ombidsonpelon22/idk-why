@@ -3379,5 +3379,53 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/rimestone_slab_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2025-05-25 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_rimestone": {
+    "criteria": {
+      "has_item": "2025-05-25 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_stairs_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2025-05-25 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_slab": {
+    "criteria": {
+      "has_item": "2025-05-25 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_wall_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2025-05-25 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-25 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_rimestone_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2025-05-25 20:41:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_wall": {
+    "criteria": {
+      "has_item": "2025-05-25 20:41:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
