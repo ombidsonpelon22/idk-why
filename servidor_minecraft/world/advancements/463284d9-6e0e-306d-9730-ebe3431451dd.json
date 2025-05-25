@@ -3361,5 +3361,23 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-25 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-05-25 20:27:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-05-25 20:28:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
