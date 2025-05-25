@@ -560,3 +560,69 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 [25May2025 20:42:49.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> JKAKJSKJKJASKJAKJ
 [25May2025 20:43:03.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported Ombid to krinpa]
 [25May2025 20:43:06.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> d
+[25May2025 20:43:30.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> chi
+[25May2025 20:44:02.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> aqui otros 2
+[25May2025 20:44:10.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported Ombid to krinpa]
+[25May2025 20:44:33.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> saladote
+[25May2025 20:44:58.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> JAJSKKJAKSJAKJS
+[25May2025 20:45:01.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> te sales del clan
+[25May2025 20:45:16.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> adios danipupusita
+[25May2025 20:45:35.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> y si eh
+[25May2025 20:45:43.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> x2
+[25May2025 20:45:55.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> las tareas siempre estan ahi
+[25May2025 20:45:59.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> los amigos se mueren
+[25May2025 20:47:20.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[25May2025 20:48:02.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> mi
+[25May2025 20:48:03.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> mi
+[25May2025 20:48:07.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> asa
+[25May2025 20:48:25.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> posi
+[25May2025 20:48:55.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> un chamaco me pega y se rie
+[25May2025 20:49:00.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> puto
+[25May2025 20:49:07.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> si
+[25May2025 20:49:20.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> aqui hay
+[25May2025 20:49:34.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> no
+[25May2025 20:49:37.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> el verde
+[25May2025 20:49:44.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ombid: Teleported Ombid to krinpa]
+[25May2025 20:49:46.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> dame
+[25May2025 20:50:02.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> 6
+[25May2025 20:50:03.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ombid lost connection: Disconnected
+[25May2025 20:50:03.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid left the game
+[25May2025 20:50:03.806] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[25May2025 20:50:18.459] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[25May2025 20:50:18.460] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[25May2025 20:50:18.475] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[25May2025 20:50:18.519] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[25May2025 20:50:18.573] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[25May2025 20:50:18.621] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[25May2025 20:50:18.680] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[25May2025 20:50:18.730] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[25May2025 20:50:18.774] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[25May2025 20:50:18.834] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[25May2025 20:50:18.869] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[25May2025 20:50:18.923] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[25May2025 20:50:19.126] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[25May2025 20:50:19.126] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[25May2025 20:50:19.126] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[25May2025 20:50:19.135] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[25May2025 20:50:22.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ombid[/100.103.125.20:50737] logged in with entity id 19876 at (-954.7740940362695, 18.0, -2836.7416220145174)
+[25May2025 20:50:22.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Ombid
+[25May2025 20:50:22.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Ombid
+[25May2025 20:50:22.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Ombid
+[25May2025 20:50:22.372] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Ombid
+[25May2025 20:50:22.374] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Ombid
+[25May2025 20:50:22.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Ombid
+[25May2025 20:50:22.376] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Ombid
+[25May2025 20:50:22.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ombid joined the game
+[25May2025 20:50:22.436] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ombid just logged in with id 300f2cb3-73b8-369a-bd50-5b2db1878249
+[25May2025 20:50:22.437] [ForkJoinPool-4-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ombid[300f2cb3-73b8-369a-bd50-5b2db1878249]
+[25May2025 20:50:22.522] [ForkJoinPool-4-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ombid downloaded
+[25May2025 20:50:23.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> chi
+[25May2025 20:50:43.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> XD{
+[25May2025 20:50:58.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> no se cual es
+[25May2025 20:51:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> QUEEEEEEEEEEE
+[25May2025 20:51:37.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> busca
+[25May2025 20:51:43.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> hori
+[25May2025 20:51:50.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> el pico los funde
+[25May2025 20:52:13.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> en el blue skai
+[25May2025 20:52:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [krinpa: Teleported krinpa to Ombid]
+[25May2025 20:53:05.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <krinpa> no se
